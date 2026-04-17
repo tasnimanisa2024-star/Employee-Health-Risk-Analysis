@@ -1,0 +1,1001 @@
+Age,Gender,Job Role,Work Experience,Working Hours,Overtime Hours,Workload Level,Stress Level,Anxiety Level,Job Satisfaction,Sleep Duration,Physical Activity,Break Frequency,Fatigue Level,Safety Condition,Noise Level,Temperature,Health Risk
+46,Male,Supervisor,8.7,11,1,2,3,3,3,5.5,3,2,4,Poor,55.8,33.7,Low
+32,Male,Ironing,15.7,8,2,4,3,4,1,5.4,3,2,3,Moderate,47.6,31.6,High
+25,Male,Packaging,9.8,9,3,3,4,3,3,7.4,2,4,2,Moderate,50.3,28.5,Low
+38,Female,Packaging,10.2,8,0,3,4,3,3,5.3,3,1,3,Good,64.6,28.3,High
+36,Male,Packaging,4.5,11,2,4,4,2,3,6.2,5,3,5,Moderate,81.7,26.1,High
+40,Male,Sewing Operator,12,10,3,4,,3,4,8.3,2,3,4,Moderate,87,30.4,High
+28,Male,Packaging,4.1,9,0,4,4,3,2,5.5,3,3,3,Poor,71.5,25.8,High
+28,Male,Ironing,7,10,2,1,2,4,2,,4,2,5,Moderate,55.2,32.7,Low
+41,Male,Cutting Operator,17.2,10,1,4,2,3,4,6.1,3,4,4,Good,56.2,31.8,Low
+53,Male,Ironing,4.5,12,1,4,3,4,5,5.2,5,3,1,Moderate,73.8,31.7,Low
+41,Male,Supervisor,1.9,9,1,2,4,3,2,7.2,4,5,1,Good,78.3,26,Low
+20,Female,Sewing Operator,1.8,11,3,3,2,4,3,6.6,3,3,2,Good,58.6,29.6,Low
+39,Male,Packaging,18.8,11,1,3,1,3,2,,3,2,4,Good,79.2,28.8,Low
+19,Male,Sewing Operator,10.4,11,4,5,2,3,1,5.6,3,2,2,Good,62.7,30.3,High
+41,Male,Sewing Operator,8.5,10,0,1,4,3,3,6.6,3,1,3,Poor,72.1,31.6,Low
+47,Male,Ironing,16.3,10,3,3,3,4,2,4,4,3,1,Good,76.5,28.5,Low
+19,Male,Cutting Operator,16.8,9,1,2,,5,4,6.8,3,2,5,Good,50.2,28.6,High
+38,Female,Sewing Operator,7,10,0,4,3,1,3,8.1,2,3,3,Poor,69.5,32,High
+50,Female,Packaging,14,10,2,2,3,1,2,4.4,2,3,5,Good,79.3,26.6,High
+29,Female,Supervisor,15.5,10,1,2,3,5,1,6,1,2,5,Good,59.4,27.8,High
+39,Male,Sewing Operator,13.3,9,0,3,2,3,4,5.5,1,2,1,Good,54.4,30,Low
+42,Male,Packaging,3.5,10,4,5,4,3,2,4.7,4,4,3,Good,69.9,32.7,High
+44,Male,Ironing,17.6,11,2,2,3,3,3,4,3,5,1,Good,66.3,27.1,Low
+45,Male,Ironing,11,8,4,2,3,1,3,5.1,3,2,5,Good,61.7,35.4,Low
+33,Female,Sewing Operator,6,11,0,4,1,4,3,6.2,3,2,3,Moderate,65,25.9,Low
+32,Male,Sewing Operator,8.8,10,4,3,3,4,3,7.9,4,5,1,Good,48.3,34.7,Low
+20,Male,Supervisor,1.2,11,0,5,3,3,1,4.7,3,1,2,Good,69,33.6,Low
+54,Male,Packaging,3,9,0,2,3,3,2,6.9,4,5,3,Poor,80.9,25.7,Low
+24,Male,Sewing Operator,15.4,9,4,3,1,4,2,6.8,3,1,5,Good,57.9,25.1,High
+38,Male,Supervisor,0.5,11,0,2,4,1,3,,5,4,3,Poor,56.7,32.2,Low
+26,Male,Sewing Operator,8.6,9,1,2,2,4,3,7.2,3,3,4,Good,66.7,28.9,Low
+35,Male,Ironing,10.7,11,0,3,3,2,2,7.3,2,5,3,Good,93.5,27,High
+21,Female,Sewing Operator,1.6,9,3,3,4,3,1,7.3,3,3,1,Moderate,76,35.4,High
+42,Female,Cutting Operator,19.5,10,0,4,3,5,3,5.4,3,3,5,Good,64.1,26.4,High
+31,Male,Sewing Operator,4.9,9,3,3,4,3,3,5.8,2,1,1,Good,65.4,27.8,Low
+26,Male,Sewing Operator,6.4,10,0,3,3,3,,7.8,3,2,5,Moderate,77,28.2,Low
+43,Male,Sewing Operator,6.4,9,0,3,3,3,3,4,3,4,3,Good,55.9,21.6,High
+19,Male,Sewing Operator,5,8,4,5,4,3,3,5.7,1,3,1,Moderate,71.1,30.3,High
+37,Male,Cutting Operator,0.5,9,1,2,2,2,3,4.9,5,5,3,Poor,53.8,27.3,Low
+45,Male,Cutting Operator,14.7,8,1,2,3,5,5,,3,3,5,Good,74.2,32.4,Low
+24,Male,Sewing Operator,19.4,12,2,3,,4,4,6,4,4,5,Moderate,62.1,32.8,High
+25,Male,Packaging,4.9,12,4,3,3,3,3,7.3,3,3,2,Moderate,67,30.7,Low
+52,Male,Ironing,13.4,9,4,2,3,3,2,6.4,3,5,2,Poor,61.4,30.7,Low
+31,Male,Cutting Operator,15,10,1,5,3,1,2,,3,5,3,Poor,72,30.5,Low
+34,Female,Packaging,17,9,4,2,4,1,3,4.7,3,3,3,Poor,63.3,27.9,Low
+53,Female,Sewing Operator,8.7,10,1,4,5,3,,6.5,5,4,4,Good,86.6,28.2,High
+21,Male,Packaging,6.4,11,4,2,3,4,3,,2,4,2,Moderate,79.2,34,Low
+19,Female,Ironing,6.8,11,0,3,3,3,1,5.9,4,2,5,Good,52,32.2,High
+23,Male,Sewing Operator,14.4,9,1,5,5,4,4,7.6,5,3,3,Good,66.9,30.6,Low
+21,Female,Ironing,16.4,10,1,2,1,1,4,7.4,3,1,4,Poor,72.4,31.8,High
+46,Female,Sewing Operator,4,9,3,5,2,3,2,8.7,5,4,3,Good,60.4,29.8,High
+35,Male,Supervisor,7.7,12,4,3,4,2,3,6.1,3,2,3,Poor,77.1,30.6,Low
+43,Male,Sewing Operator,18.1,8,4,5,4,3,3,5.7,5,1,5,Good,75.9,31.8,Low
+51,Male,Packaging,16.2,10,1,3,4,1,4,,4,3,3,Poor,64.2,23.8,High
+27,Male,Packaging,19.7,10,0,3,3,5,4,5.8,1,3,4,Good,74.8,32.7,Low
+53,Male,Ironing,15.2,10,0,2,1,2,3,5.9,5,4,5,Good,40.9,32.5,High
+31,Male,Sewing Operator,8.2,8,0,3,3,5,3,6.3,3,5,3,Good,78.6,27.7,Low
+48,Male,Packaging,12,11,4,1,2,3,4,8.5,3,3,3,Moderate,73.9,33.7,Low
+32,Female,Packaging,13.4,8,3,2,2,5,3,7.3,3,1,1,Good,54.1,23.3,Low
+25,Female,Packaging,2,10,1,2,4,3,3,7.5,2,4,1,Moderate,67.5,31.1,Low
+31,Male,Ironing,11.1,9,2,3,1,5,4,8.4,3,3,2,Good,44.7,30.1,Low
+40,Male,Ironing,14.3,9,3,4,4,1,2,7.6,4,3,2,Good,57.4,29.1,High
+38,Male,Supervisor,3.8,10,2,2,3,4,3,5.1,1,3,2,Good,76,30.1,Low
+33,Male,Sewing Operator,15.7,9,3,2,3,5,4,7.6,2,3,3,Good,64.9,31.7,High
+35,Female,Supervisor,11.9,8,0,3,1,2,4,7.7,1,3,3,Poor,64.3,24.6,Low
+41,Male,Packaging,19.1,8,4,2,3,1,3,7.3,3,4,3,Poor,65.5,33,Low
+43,Male,Sewing Operator,1.3,9,2,1,1,3,2,6.3,4,3,1,Good,64.3,28.8,Low
+42,Male,Sewing Operator,5.7,10,3,2,5,5,3,7.2,4,4,1,Moderate,74.9,33,Low
+46,Male,Sewing Operator,12.2,11,4,5,4,3,2,6.5,5,3,3,Moderate,58.8,31.9,Low
+32,Male,Supervisor,6.3,8,2,,3,3,2,5.3,3,2,3,Good,69.2,28.7,Low
+18,Female,Ironing,14.4,9,1,3,2,2,4,5.6,2,4,3,Good,53.6,29.8,Low
+42,Male,Supervisor,15.3,8,3,3,5,1,2,7.3,5,3,3,Moderate,72.4,29.9,Low
+24,Male,Packaging,2.5,8,1,3,3,4,3,5.4,4,2,4,Good,61.8,34.8,Low
+26,Male,Packaging,10.5,10,0,3,2,1,,5.5,3,3,3,Good,64.6,26.6,Low
+41,Female,Sewing Operator,10.4,10,1,3,3,3,5,7.4,3,3,3,Good,61.4,28.7,High
+18,Female,Sewing Operator,7.7,8,1,3,5,5,3,6.7,5,4,5,Moderate,62.6,25.3,Low
+25,Male,Packaging,18.7,9,3,2,1,2,1,7.2,4,3,4,Good,55,30.4,High
+41,Male,Sewing Operator,16.6,8,0,1,2,3,1,5,3,4,3,Good,68.3,28.1,Low
+28,Male,Sewing Operator,14.1,11,1,3,,1,3,7.2,4,1,3,Good,70.5,28.5,Low
+34,Male,Packaging,14.4,12,4,4,2,3,3,5.7,1,3,2,Good,51.7,34.5,Low
+25,Female,Ironing,9.5,8,2,3,2,2,3,5.3,3,5,3,Good,59,27.5,High
+52,Male,Cutting Operator,18.5,9,1,4,,4,3,5.9,3,4,5,Poor,65.3,29.5,High
+52,Male,Cutting Operator,14,11,0,5,4,3,1,8.1,2,2,3,Good,59,28.6,High
+50,Male,Ironing,14.7,11,1,2,3,3,3,,1,2,5,Moderate,62.8,28.8,High
+22,Male,Packaging,17.3,9,2,3,5,3,3,,2,3,3,Good,81.2,38.3,High
+45,Male,Ironing,5.8,8,0,3,3,2,,4,3,3,5,Moderate,54.8,24.8,High
+24,Female,Supervisor,16.2,8,3,5,1,4,2,4.6,4,4,3,Moderate,41.9,31.9,High
+26,Male,Sewing Operator,4.3,10,0,5,5,3,2,8.1,5,4,1,Good,59,37.3,Low
+25,Male,Packaging,7.2,9,3,3,3,3,2,8.4,3,3,3,Poor,61.7,33.2,High
+29,Male,Supervisor,7,8,0,2,,2,3,5.5,3,4,2,Good,60.1,30.1,Low
+51,Male,Sewing Operator,19.6,10,2,4,3,3,2,6.6,5,3,1,Poor,67.7,26.5,High
+50,Male,Packaging,17.2,8,2,2,3,2,2,7.4,2,2,4,Good,54.7,33.9,High
+40,Male,Packaging,14.2,10,0,4,1,3,2,6.2,4,3,2,Poor,53.2,32.8,Low
+41,Female,Sewing Operator,14.7,9,1,5,1,2,5,6.7,4,5,4,Moderate,58.3,25.4,Low
+54,Male,Sewing Operator,11.5,8,2,3,3,4,4,6.5,1,4,2,Poor,58.5,29,Low
+52,Male,Sewing Operator,19,10,3,3,4,2,2,4.7,4,3,2,Moderate,86.2,26.4,High
+39,Male,Sewing Operator,10.2,9,3,3,3,4,3,6.1,4,3,5,Good,80.5,21.4,Low
+44,Male,Sewing Operator,7.9,12,4,3,5,4,2,6.5,1,5,3,Moderate,48.3,26.3,High
+52,Female,Supervisor,3.7,10,3,3,2,2,3,6.6,1,3,3,Poor,45.7,30.3,Low
+18,Female,Sewing Operator,15.8,9,4,4,2,3,1,4.4,1,3,3,Poor,64.1,31.7,Low
+52,Male,Packaging,14.8,10,0,5,2,1,3,7.4,3,5,3,Good,84.1,29,Low
+54,Male,Sewing Operator,8,9,0,5,2,3,3,6.7,3,4,5,Moderate,71.7,34.1,High
+31,Male,Cutting Operator,1,11,0,2,2,4,4,5.2,3,3,3,Good,64.7,33.1,Low
+20,Male,Sewing Operator,16.9,9,1,,4,3,2,8.7,2,3,3,Moderate,60.4,29.6,High
+18,Male,Packaging,0.7,10,1,4,5,3,4,6.1,5,3,4,Good,75.8,29.2,Low
+22,Male,Cutting Operator,14.2,8,4,2,5,2,4,6.2,3,2,2,Good,66.8,31.1,High
+43,Male,Supervisor,19.4,9,3,1,2,3,2,7.3,1,5,3,Poor,82.3,29.9,Low
+31,Male,Sewing Operator,9,11,3,2,4,2,,8.8,3,3,5,Good,48.1,25.7,Low
+44,Female,Supervisor,5.1,11,0,5,3,4,2,7.3,3,4,3,Moderate,69.2,29.1,Low
+26,Male,Packaging,14.2,9,2,3,2,3,2,7.5,3,2,4,Moderate,59.4,32,High
+32,Male,Packaging,16.4,9,1,4,4,4,2,5.3,2,3,3,Good,69.1,33.9,High
+32,Female,Sewing Operator,11.2,11,1,2,3,2,3,6.6,2,1,4,Good,67.5,32.9,Low
+43,Male,Sewing Operator,19.4,11,0,4,2,3,3,5.9,4,4,5,Moderate,70.1,31,High
+30,Male,Ironing,1.5,8,1,,3,3,5,7.3,5,3,2,Good,74.8,34.4,Low
+49,Male,Packaging,10.3,9,0,3,2,1,2,7.5,3,3,2,Poor,78.9,31.3,Low
+49,Male,Packaging,14.5,9,4,3,4,3,5,8.5,3,1,3,Poor,84.5,29.7,Low
+21,Female,Ironing,17.3,11,3,2,3,4,2,3.9,3,2,4,Good,65.2,34.4,Low
+47,Female,Supervisor,4,8,2,4,5,4,4,5.7,4,1,2,Good,59.6,32.2,Low
+54,Male,Sewing Operator,16.1,9,3,2,1,3,,8.1,3,2,1,Good,52.7,33.9,High
+40,Male,Ironing,11.3,10,3,3,3,3,2,4.8,5,3,3,Moderate,69.3,26.4,High
+32,Male,Sewing Operator,8.2,8,4,3,3,1,4,7.5,3,3,5,Good,73.3,27.4,Low
+46,Male,Supervisor,3.1,9,1,3,3,4,3,7.9,3,3,3,Good,51.5,27.5,Low
+53,Male,Ironing,17.4,9,2,2,3,1,3,6.5,3,3,3,Moderate,76.4,30.5,High
+30,Female,Cutting Operator,3.6,9,1,1,4,5,3,4.8,5,2,2,Poor,64,35.5,High
+49,Male,Sewing Operator,6.5,9,3,5,,3,3,6.4,4,2,3,Good,52.4,26.6,High
+24,Female,Sewing Operator,6.2,10,0,2,5,3,3,8.3,1,2,2,Good,56.5,32.7,Low
+39,Male,Sewing Operator,17.5,8,3,4,4,5,4,8.3,3,4,2,Poor,55.6,26.4,High
+45,Male,Sewing Operator,13.6,10,1,5,4,1,1,6.7,3,3,5,Moderate,55.7,36.4,High
+19,Male,Sewing Operator,16,11,3,2,3,3,3,5.3,3,2,5,Moderate,70.7,25.2,High
+23,Female,Cutting Operator,5.4,10,0,2,4,3,4,8.6,4,2,2,Moderate,73.6,32.2,Low
+45,Female,Sewing Operator,12.7,8,4,3,3,2,1,,4,4,1,Poor,82,32.6,Low
+45,Female,Sewing Operator,11.6,8,1,5,3,3,2,5.4,4,4,3,Moderate,58,31.9,Low
+37,Male,Supervisor,16.7,9,3,5,3,3,4,6.9,5,3,3,Poor,68.4,27.4,High
+47,Male,Packaging,18.2,9,1,3,3,4,3,6.9,2,3,2,Moderate,58.5,26.8,High
+28,Female,Supervisor,0.7,9,4,4,2,1,3,5.7,4,2,3,Moderate,65.2,33.8,Low
+45,Male,Sewing Operator,13.6,10,3,2,5,5,2,6.9,4,5,2,Good,50.2,33.1,Low
+42,Male,Packaging,1.5,8,3,5,3,2,3,7.8,3,4,4,Good,53.8,33.1,High
+50,Male,Sewing Operator,11.2,8,1,,1,2,2,6.1,4,3,4,Moderate,73,33.5,High
+18,Female,Sewing Operator,6.1,9,1,2,3,2,3,7.9,2,4,3,Good,50.2,25.4,Low
+44,Female,Cutting Operator,6.5,10,0,2,1,1,4,4.4,4,4,3,Moderate,71.1,25.3,Low
+30,Male,Sewing Operator,7.4,8,4,2,2,2,2,9.2,3,2,5,Good,58.2,28,High
+20,Female,Packaging,12.6,10,0,2,2,5,3,6.6,2,3,5,Poor,45.7,28.6,Low
+23,Female,Packaging,7,9,3,4,3,3,5,7.8,3,2,2,Good,39.6,28.2,Low
+25,Male,Sewing Operator,14.8,11,1,3,3,2,3,6.8,3,2,2,Poor,79.6,30.8,Low
+44,Male,Cutting Operator,8.4,11,3,1,4,2,4,5.5,2,4,3,Moderate,45.9,33.3,Low
+26,Female,Sewing Operator,1.8,9,3,3,4,4,3,6.5,1,2,1,Good,64.4,29.1,Low
+54,Male,Ironing,15.8,9,2,5,3,4,,4.2,3,4,3,Moderate,68.5,27.6,High
+50,Male,Cutting Operator,6.1,9,2,3,3,2,1,7.3,3,5,3,Good,51.9,32.4,High
+41,Male,Packaging,8.9,9,3,3,3,1,2,6.7,4,1,3,Good,59.5,29.2,High
+32,Female,Cutting Operator,13.9,10,1,2,4,2,2,6.3,5,3,3,Good,69.8,30.3,High
+49,Female,Sewing Operator,7,11,3,5,1,1,3,7.4,3,4,3,Good,67.9,29,Low
+49,Female,Packaging,1.6,10,2,4,1,2,4,6.5,4,4,5,Poor,60.4,31,Low
+41,Male,Sewing Operator,7.8,11,1,2,4,3,3,7.2,3,4,2,Good,67.4,27,Low
+29,Female,Ironing,18.9,9,3,1,3,2,3,7.7,4,3,3,Moderate,64,32.2,High
+19,Female,Cutting Operator,13,8,4,1,2,3,4,5.8,2,3,1,Good,55.3,29.9,Low
+20,Male,Sewing Operator,13.6,10,4,2,2,2,3,5.5,3,3,1,Moderate,77,27.7,Low
+54,Female,Ironing,12.8,9,3,,5,5,3,4.4,3,5,3,Good,67.1,31.6,Low
+34,Male,Sewing Operator,4.4,10,1,5,4,5,3,6.6,1,3,2,Moderate,46.6,27.7,High
+19,Male,Packaging,8.7,9,3,3,4,3,3,7,4,5,1,Moderate,70.2,27.8,Low
+19,Male,Packaging,15.1,8,3,4,3,3,1,,4,2,2,Moderate,58.8,26.4,Low
+45,Male,Cutting Operator,2.5,12,2,3,3,3,,8.2,3,5,3,Good,62.1,24.9,Low
+40,Male,Ironing,5.9,8,4,,5,3,,5.5,3,3,4,Moderate,65.1,31.6,Low
+54,Male,Sewing Operator,5.9,12,2,4,5,4,1,4,4,3,2,Good,57.1,33.5,High
+49,Male,Sewing Operator,8.9,12,2,2,2,3,4,8.3,4,3,3,Good,83,28.6,Low
+50,Female,Sewing Operator,19.6,10,3,3,4,4,3,4.1,2,2,2,Good,50.1,27.6,Low
+18,Male,Sewing Operator,1.8,10,2,3,2,5,3,,3,2,3,Good,65.6,24.6,Low
+36,Male,Sewing Operator,10.6,10,4,1,2,3,3,7.4,3,2,3,Good,68.8,23.5,Low
+19,Male,Cutting Operator,4,11,2,3,3,3,,6.9,3,2,3,Moderate,65.4,32.2,High
+43,Female,Packaging,19.4,9,4,3,3,1,2,5.9,2,3,5,Good,63.1,24.1,High
+49,Male,Packaging,2.7,9,2,5,5,2,3,7.1,3,4,5,Good,61.2,26.6,Low
+23,Male,Sewing Operator,8.4,10,4,3,1,3,3,7.8,4,3,1,Good,57,30.9,Low
+49,Female,Cutting Operator,14.9,9,2,,3,2,4,5.3,3,2,4,Moderate,56.8,30.3,High
+21,Male,Ironing,14.2,9,2,3,5,4,3,7.7,5,4,1,Moderate,76.6,31,Low
+28,Male,Sewing Operator,8.7,9,1,4,5,2,5,7.6,4,3,5,Good,60.6,30,High
+34,Male,Ironing,7.3,10,4,3,2,3,1,6.9,5,5,2,Moderate,86.3,28.9,High
+41,Female,Packaging,8.3,11,4,4,3,3,3,5.9,2,3,3,Moderate,71.7,26.6,Low
+22,Male,Sewing Operator,5.7,9,4,3,3,3,3,7.6,4,2,1,Good,38.3,28.1,High
+51,Female,Packaging,4.5,11,0,3,2,3,5,7.1,1,3,2,Moderate,73.8,29.1,Low
+23,Male,Packaging,9.9,10,2,3,5,4,1,,3,3,4,Moderate,64.5,24.3,Low
+39,Female,Sewing Operator,5.7,11,4,3,5,3,3,6.1,3,1,5,Moderate,51.1,27.6,High
+28,Female,Cutting Operator,6.1,10,0,2,2,3,4,7.5,3,1,3,Good,78,28.9,Low
+33,Female,Supervisor,13.3,10,1,1,2,1,2,6.6,4,2,4,Good,60.6,27.9,Low
+50,Male,Ironing,19.4,8,4,1,1,3,4,7.8,4,2,4,Good,59.8,29,Low
+26,Female,Packaging,12.3,11,4,4,5,4,1,6.1,1,3,2,Moderate,68.8,32,High
+23,Male,Packaging,2,8,0,2,2,3,4,5.3,3,3,1,Poor,76.4,32.4,Low
+33,Male,Ironing,2,11,2,2,3,4,5,9.1,3,2,1,Good,66.1,34.5,Low
+46,Male,Packaging,19.1,12,1,4,3,3,3,4.5,3,3,3,Good,65.4,25.5,High
+20,Female,Sewing Operator,6.3,9,4,3,3,2,3,5.9,4,3,2,Moderate,58,28.7,Low
+37,Female,Packaging,2.3,9,2,3,1,1,1,6.8,3,2,1,Poor,76.3,33.7,Low
+53,Female,Supervisor,12.2,10,1,2,2,3,5,7.7,5,1,2,Poor,66.2,24.8,Low
+36,Male,Packaging,12.7,9,3,5,5,3,3,7.3,2,1,2,Moderate,62.7,26.5,Low
+43,Male,Sewing Operator,13.1,11,3,4,5,4,1,9.3,3,3,5,Poor,61.5,28.2,High
+20,Female,Supervisor,5.7,8,1,4,4,2,3,6.4,3,2,2,Good,75.3,36.1,High
+36,Male,Sewing Operator,0.8,8,0,3,1,3,3,5.5,2,3,3,Good,62.4,27.1,Low
+37,Male,Sewing Operator,19.3,12,1,4,3,3,2,6.2,3,3,3,Good,75.3,33.3,Low
+49,Male,Sewing Operator,5.4,10,1,2,3,3,2,6.1,4,3,3,Moderate,60.3,29.9,Low
+24,Male,Sewing Operator,13.7,11,0,1,2,2,1,6.4,4,2,1,Good,72.2,26.6,Low
+50,Male,Supervisor,14.3,9,0,1,5,2,3,5.3,3,3,3,Good,67.1,38.4,Low
+35,Male,Packaging,12.4,10,2,3,3,2,3,7.4,3,3,1,Good,55.5,30.6,Low
+18,Male,Sewing Operator,6.6,10,2,,1,1,3,6.9,1,4,3,Good,64.1,31.1,High
+28,Male,Cutting Operator,5.8,10,0,3,5,2,4,5,2,4,2,Poor,43.1,31.6,Low
+45,Female,Cutting Operator,12.2,10,3,1,5,1,4,7.7,3,3,3,Good,57.6,31.4,High
+42,Male,Cutting Operator,17.4,10,3,3,1,3,3,5.5,1,3,3,Good,49.2,36.5,Low
+40,Male,Sewing Operator,19,9,1,4,3,3,1,5.1,4,3,3,Moderate,85,35.4,High
+48,Male,Packaging,2.6,9,4,3,3,5,3,6.6,4,4,3,Good,49.3,27.2,High
+47,Male,Cutting Operator,3.5,10,1,4,3,2,3,4.4,5,1,3,Moderate,90.9,36.1,High
+52,Female,Supervisor,18.9,9,1,2,2,3,3,7.2,3,5,4,Poor,70.1,27.9,Low
+24,Female,Sewing Operator,14.9,10,4,4,3,3,3,3.1,5,3,2,Poor,59.8,31,High
+33,Male,Sewing Operator,17.7,9,0,3,5,1,3,5.3,3,3,4,Poor,73.1,25.6,High
+43,Male,Packaging,4.5,10,3,2,,4,5,8.4,3,1,4,Good,58.6,33.1,Low
+19,Female,Cutting Operator,12,10,1,2,1,1,2,5.7,5,3,3,Moderate,50.9,29.1,Low
+18,Female,Packaging,14.2,9,4,3,3,5,3,5.9,3,3,2,Good,65.8,26.6,Low
+29,Male,Packaging,13.8,8,2,,3,4,1,8,1,2,3,Good,72,33.6,Low
+22,Male,Sewing Operator,8.5,8,1,3,4,3,5,5.5,4,2,1,Good,77.8,34.3,High
+54,Male,Ironing,0.8,10,3,2,3,3,2,7.4,5,4,1,Good,70,34.4,Low
+49,Female,Supervisor,11.9,11,0,4,2,3,1,7.9,4,3,2,Poor,59.7,25.4,Low
+26,Male,Sewing Operator,5.4,8,1,3,2,3,3,7.1,3,3,2,Good,78.9,34.7,Low
+52,Female,Supervisor,9.3,10,1,3,4,3,3,4.8,3,1,3,Moderate,76.6,29.1,High
+36,Male,Cutting Operator,19.2,9,4,3,2,1,2,5.8,5,4,4,Good,67.7,36.2,High
+33,Male,Sewing Operator,8.3,9,2,2,4,1,3,9.8,1,4,2,Good,77.1,31.9,Low
+20,Male,Packaging,16.9,11,2,3,2,3,3,5.9,3,3,5,Poor,86.8,30.8,Low
+37,Male,Sewing Operator,4.2,9,0,3,3,3,1,10.1,2,3,5,Good,59.6,30,Low
+41,Male,Supervisor,13.6,9,3,5,3,4,3,8.6,3,3,5,Moderate,56,30,High
+50,Male,Packaging,19.6,8,0,3,5,2,4,7.1,3,3,4,Good,59.3,28,High
+41,Male,Ironing,2.5,8,1,,5,4,,6.9,2,2,3,Good,51.5,26.8,High
+28,Female,Supervisor,0.7,9,1,3,2,2,4,5.9,2,5,1,Good,70.9,28.9,Low
+25,Male,Sewing Operator,9,8,2,5,3,3,,6.4,3,3,3,Poor,48.9,33.6,Low
+53,Male,Cutting Operator,2.3,10,3,4,2,3,3,5.7,2,3,3,Good,77.7,25.8,High
+37,Female,Packaging,15.1,9,4,3,3,3,1,6.4,2,3,4,Good,58.3,34,Low
+52,Female,Sewing Operator,18.3,10,3,4,,2,2,4.9,4,4,5,Good,78.6,30.4,High
+42,Female,Ironing,9,8,1,3,5,3,4,4.8,3,2,3,Moderate,39.4,32.3,Low
+52,Female,Supervisor,5.5,9,4,3,5,4,5,8.1,3,2,3,Moderate,61.1,32.5,High
+42,Male,Sewing Operator,9,10,3,2,3,3,3,4.6,5,3,2,Moderate,52.1,32.8,Low
+46,Male,Cutting Operator,14.6,12,3,3,3,3,1,7.6,2,3,1,Good,78.5,30.1,Low
+35,Female,Cutting Operator,0.7,8,4,2,4,4,2,,3,4,3,Poor,81.8,30.2,High
+35,Male,Sewing Operator,12,11,1,5,4,4,3,7.3,3,2,3,Moderate,41.6,32.7,Low
+19,Male,Cutting Operator,12.5,10,3,3,1,3,3,6.3,4,4,4,Poor,73.7,26.9,Low
+52,Female,Sewing Operator,12.9,10,4,5,3,2,1,8.1,5,1,3,Poor,75.7,26.4,Low
+33,Male,Sewing Operator,5.2,10,1,3,3,4,5,6.1,5,1,5,Moderate,68.3,28.6,High
+53,Male,Sewing Operator,14.4,8,4,3,2,3,3,4.1,4,4,3,Good,70.9,30.9,Low
+50,Male,Cutting Operator,2.3,8,4,3,2,2,5,6.3,2,3,4,Poor,70.2,35.8,High
+21,Male,Ironing,4.4,10,3,2,1,2,,6.7,1,3,2,Poor,73.7,30.1,Low
+50,Male,Sewing Operator,17.6,9,1,3,3,4,4,6.3,3,2,4,Good,54.1,36,High
+31,Male,Packaging,14.9,11,3,1,2,1,3,7.2,2,3,3,Good,77,31.5,Low
+38,Female,Ironing,0.8,9,0,3,,5,3,5.8,4,3,2,Poor,67.1,28.6,Low
+37,Male,Sewing Operator,5.3,8,0,3,2,2,3,5,3,5,2,Good,66.5,33.4,Low
+25,Male,Cutting Operator,4.7,10,1,4,4,4,3,,1,5,5,Poor,70.7,29.3,Low
+24,Female,Supervisor,5.8,9,4,,4,3,3,5.9,4,3,1,Good,52.3,30.8,High
+20,Female,Packaging,5.3,10,3,2,3,3,5,5.9,2,3,3,Good,49.5,26,Low
+34,Female,Cutting Operator,1.7,10,3,,3,4,4,9.4,3,3,3,Good,63.8,25.5,Low
+50,Female,Packaging,9.4,11,1,5,5,3,4,8,3,3,3,Good,80.4,31.7,Low
+29,Male,Cutting Operator,14.8,10,1,4,2,3,4,7.3,3,2,4,Good,53.1,33.3,High
+39,Male,Ironing,12.3,10,0,3,2,1,2,7,3,3,3,Good,66.8,35.8,Low
+39,Male,Ironing,13.6,10,2,3,2,1,1,6.9,1,1,3,Moderate,57.8,27.6,Low
+47,Male,Sewing Operator,2.1,11,1,1,2,2,3,6.9,3,1,5,Poor,56.5,34.4,High
+25,Male,Cutting Operator,19.1,9,2,5,3,3,3,6.7,4,2,4,Good,70,33.9,Low
+44,Male,Packaging,16.9,8,1,3,5,2,4,6.5,5,3,4,Moderate,72.6,28.5,High
+44,Female,Sewing Operator,16.2,9,4,2,3,2,3,4,3,4,3,Moderate,57.1,34.2,Low
+51,Male,Sewing Operator,16.5,9,4,3,3,3,3,6.1,3,3,2,Moderate,78.9,32.8,Low
+38,Male,Packaging,18.7,10,0,2,5,3,3,6.2,4,3,3,Moderate,69.2,33.4,Low
+47,Male,Packaging,11.1,10,0,5,,4,1,5.6,5,1,4,Good,62.6,36.5,Low
+50,Male,Ironing,4.4,10,2,2,2,2,3,5.8,2,3,2,Good,68.5,33.3,Low
+45,Male,Cutting Operator,12.5,8,1,,3,1,4,6.9,3,2,2,Good,85.4,23.6,Low
+50,Female,Sewing Operator,15,10,3,2,3,5,2,7.4,4,3,1,Good,72.5,31,Low
+22,Male,Ironing,14.9,9,0,4,1,2,3,6.9,3,5,3,Moderate,58,25.3,Low
+36,Male,Sewing Operator,10.7,10,3,4,3,4,3,7.4,2,2,4,Good,64.8,30.5,High
+21,Male,Cutting Operator,1.8,10,3,3,3,4,,7.4,3,2,1,Poor,66.3,30.3,Low
+52,Female,Supervisor,7.7,9,1,3,3,4,2,6.1,2,3,3,Poor,71.7,28.2,Low
+34,Male,Packaging,18.5,8,2,4,3,2,5,7.1,3,5,5,Poor,67.4,26.9,Low
+45,Male,Ironing,11.9,8,1,1,3,4,3,4.4,3,4,2,Poor,84,28.4,High
+47,Male,Sewing Operator,11,11,0,3,1,4,2,6,4,4,3,Good,62.7,29,High
+46,Male,Packaging,5.7,11,3,2,3,3,2,5.9,3,3,5,Moderate,47.7,29.6,High
+23,Female,Supervisor,7.7,10,1,,,3,3,8.3,2,5,5,Good,67.1,30.3,Low
+52,Female,Packaging,18,8,1,3,5,2,3,6.9,2,2,2,Poor,60.6,31.8,Low
+54,Male,Sewing Operator,13.5,9,1,4,3,2,3,4.9,4,1,2,Poor,50,29.1,High
+41,Female,Packaging,15.9,10,0,3,3,3,1,7.2,2,4,2,Poor,58,33.8,Low
+46,Female,Supervisor,9.4,10,2,2,4,3,4,7.6,3,5,4,Good,61.4,29.9,Low
+48,Female,Sewing Operator,12.8,8,1,2,3,3,3,6.4,2,1,4,Moderate,76.4,32.8,Low
+52,Female,Sewing Operator,5.3,8,0,2,3,3,3,7.3,4,2,3,Good,50.2,29.1,Low
+50,Male,Ironing,14.3,10,3,3,4,3,3,3.5,3,1,3,Good,68.5,38.2,Low
+38,Male,Supervisor,8.8,9,4,2,4,3,3,3.3,3,2,2,Moderate,87.2,31.4,High
+49,Male,Sewing Operator,9.1,9,0,1,3,5,4,5.1,3,2,3,Good,63.3,34.9,Low
+40,Female,Sewing Operator,13.2,8,4,4,1,2,,6.7,4,5,3,Poor,63,27.9,Low
+50,Male,Sewing Operator,18.8,10,1,5,,3,3,8.3,3,3,4,Good,72.2,28.7,High
+20,Female,Sewing Operator,1.7,11,1,,4,2,4,5.1,4,4,3,Poor,70.2,29.2,Low
+35,Female,Packaging,16.6,12,0,3,2,3,4,5.5,4,4,3,Good,79.2,37.4,Low
+42,Male,Ironing,6.2,10,4,1,2,4,5,6.6,5,3,2,Poor,63.3,29.4,Low
+48,Female,Ironing,9.2,10,1,3,4,5,2,5.9,3,4,2,Poor,72,27.5,Low
+20,Male,Ironing,0.9,8,3,4,1,2,3,5.8,5,3,2,Poor,72.2,33.9,Low
+41,Male,Sewing Operator,6.4,10,2,2,4,5,2,6,1,3,1,Good,61.6,30.2,High
+49,Female,Supervisor,10.3,9,2,2,3,1,4,8.1,3,3,3,Poor,63.9,29.3,Low
+39,Male,Packaging,1.6,10,1,4,3,3,1,7.8,4,3,1,Good,64.9,28.2,High
+40,Female,Cutting Operator,10.1,9,4,3,1,1,3,6.5,2,4,2,Good,52.6,31.5,Low
+19,Female,Ironing,18.6,9,1,1,4,4,3,8.5,2,5,4,Good,61.1,33.2,High
+44,Male,Sewing Operator,2.6,8,4,3,3,3,3,7.1,3,3,3,Poor,80,32.4,High
+19,Male,Ironing,15.4,9,3,3,3,3,3,7.9,3,4,3,Good,75.4,28.6,Low
+43,Male,Sewing Operator,8.5,8,4,3,3,4,4,5.5,3,1,4,Poor,59.2,27,Low
+34,Male,Ironing,13.3,8,1,,4,2,3,5.7,4,4,3,Moderate,64.8,17.9,High
+50,Female,Sewing Operator,5.6,12,3,4,5,1,4,5.7,4,3,5,Good,74.7,27.2,High
+26,Male,Sewing Operator,3.6,9,0,3,3,4,2,6.4,3,1,1,Poor,69.4,28.9,Low
+46,Male,Cutting Operator,3.6,10,2,5,3,3,3,6.6,2,3,4,Good,73,29.8,Low
+43,Male,Sewing Operator,1.9,11,1,3,5,2,3,6.9,5,3,5,Poor,70.3,29.2,High
+52,Male,Supervisor,4.1,12,1,4,3,3,1,8.9,2,2,4,Good,67.2,38.4,Low
+42,Female,Sewing Operator,13.5,10,1,3,2,3,3,7.4,2,5,2,Moderate,63.3,31.5,Low
+41,Male,Ironing,17.7,11,3,4,2,1,3,5.9,1,1,3,Good,53,26.3,Low
+30,Female,Ironing,16.4,9,0,5,4,2,,6.5,3,5,2,Good,71.9,32,High
+24,Male,Packaging,13.9,9,4,1,3,1,4,,2,4,3,Good,62.8,31.2,Low
+53,Female,Sewing Operator,2.7,9,0,5,3,3,3,7.4,2,3,4,Good,48.5,26.9,High
+37,Male,Sewing Operator,6.1,10,3,4,3,4,,8.3,3,3,3,Good,59.5,30.9,High
+18,Male,Sewing Operator,6.5,10,1,4,2,5,2,5.9,2,4,3,Good,73.5,31.6,Low
+25,Female,Sewing Operator,5.4,9,2,2,3,3,3,5.6,3,3,3,Good,45.8,33.1,Low
+33,Male,Ironing,10.5,8,1,4,1,2,2,5.7,4,3,3,Moderate,54.7,24.7,Low
+31,Female,Cutting Operator,10.9,10,4,4,3,5,1,6,4,3,4,Moderate,66.4,31.9,High
+29,Male,Cutting Operator,7.5,8,2,2,3,3,3,5.2,2,3,4,Poor,79.1,34.2,High
+40,Male,Supervisor,7.4,10,1,5,3,2,3,6.9,2,5,1,Moderate,75,35.7,High
+32,Male,Supervisor,16.7,10,2,1,4,5,3,6.9,5,2,3,Moderate,80,26.3,Low
+45,Female,Ironing,15.9,10,0,2,4,4,4,8.1,1,3,2,Moderate,67.1,29.6,Low
+51,Male,Sewing Operator,6.5,10,3,3,4,4,3,4.4,4,2,3,Good,62.9,29.9,Low
+19,Male,Cutting Operator,18.3,11,1,3,1,4,3,5.4,2,4,5,Moderate,73.4,32,Low
+49,Male,Ironing,19.1,9,4,3,2,2,4,7.5,5,4,4,Good,56,29.5,Low
+40,Male,Packaging,6.9,10,0,1,3,2,3,6.7,3,2,3,Poor,55.2,27.9,Low
+39,Male,Sewing Operator,7.4,10,1,5,5,3,3,6.6,3,1,2,Moderate,53.4,30.7,Low
+42,Female,Packaging,10.4,8,0,1,4,2,3,8,4,1,2,Good,75.9,29,Low
+39,Female,Packaging,18.9,8,4,,4,3,1,5.3,3,3,3,Moderate,56.7,31.7,High
+39,Female,Cutting Operator,17.6,9,1,1,3,4,3,5.6,3,3,2,Good,75,27.6,Low
+23,Female,Packaging,2.5,9,4,3,3,4,3,5.5,3,5,3,Good,66.5,26.9,High
+32,Male,Sewing Operator,8.2,10,2,5,3,3,5,4.1,4,3,1,Good,76,33.9,Low
+54,Female,Cutting Operator,11.3,11,4,3,2,4,4,6.7,1,2,3,Moderate,53.9,36.8,High
+50,Male,Sewing Operator,10.3,8,2,4,1,4,,5.9,1,4,2,Moderate,58.7,35.5,Low
+25,Male,Packaging,4.3,8,1,1,5,3,2,5.6,3,3,5,Poor,69.5,29.8,High
+22,Male,Sewing Operator,17.2,12,2,3,2,2,2,5.4,2,3,4,Good,60.7,33.2,Low
+21,Male,Ironing,13.7,8,1,3,2,2,3,6.5,3,1,3,Moderate,40.1,27.9,Low
+23,Female,Cutting Operator,16.8,9,1,3,1,3,3,5.5,2,3,1,Moderate,51.3,31.5,Low
+49,Male,Sewing Operator,17.2,10,3,1,5,2,2,,3,5,3,Good,53.9,28.2,High
+47,Male,Cutting Operator,15.1,10,1,3,3,2,3,7.1,2,3,2,Moderate,54.6,33.8,High
+52,Male,Sewing Operator,9.1,8,2,3,3,2,2,6.1,3,3,3,Good,71.8,33.4,High
+33,Female,Cutting Operator,12.4,8,3,4,5,3,5,6.1,2,3,4,Good,68.4,36.2,High
+30,Male,Supervisor,3.6,8,3,3,3,5,2,6.7,1,5,3,Good,66.6,29.3,High
+47,Male,Supervisor,13.6,10,1,2,3,2,5,6.5,1,2,3,Moderate,85.1,34.7,Low
+36,Male,Sewing Operator,4,10,4,3,1,4,5,8.1,5,3,3,Good,76.8,31.5,Low
+34,Female,Cutting Operator,14,9,4,,2,3,3,6.9,2,5,5,Good,73,30.2,Low
+36,Male,Ironing,5,10,3,4,4,1,4,7.8,4,2,5,Good,50,31,High
+45,Male,Sewing Operator,2.8,11,1,3,4,5,3,7.2,1,4,3,Good,65.6,35.1,High
+43,Male,Supervisor,3.7,8,4,2,3,3,3,4.9,2,3,3,Good,68,29.6,Low
+54,Male,Sewing Operator,0.5,9,1,5,3,3,,5.8,3,3,3,Good,60.8,29.8,Low
+43,Male,Cutting Operator,14.5,10,1,3,3,4,3,6.4,3,3,2,Moderate,82.1,23.8,High
+40,Male,Sewing Operator,14.8,9,3,1,1,2,3,7.5,5,3,3,Good,65.5,29.6,Low
+26,Female,Ironing,10.5,9,3,3,2,3,,8.8,5,3,3,Moderate,52.7,30.8,Low
+29,Male,Packaging,3.6,10,0,2,2,1,3,5.9,4,2,2,Moderate,55,27.7,Low
+18,Male,Sewing Operator,2.1,11,4,4,2,4,2,6.6,3,3,2,Good,87.8,27,High
+18,Female,Sewing Operator,0.9,11,4,4,4,3,3,7.5,3,2,3,Good,60.8,24.4,High
+51,Male,Sewing Operator,3.7,10,4,5,2,3,1,6.4,3,1,4,Poor,44.2,28.2,Low
+49,Male,Packaging,17.9,10,2,3,2,2,1,8.5,5,5,3,Good,59,34.3,Low
+42,Male,Sewing Operator,5.2,9,1,3,3,3,2,4.9,3,3,3,Good,46.7,25.6,Low
+18,Male,Packaging,7.4,10,3,,4,4,1,,3,5,3,Good,74.2,32.4,High
+33,Female,Sewing Operator,2.6,9,4,2,2,3,2,7.3,2,2,3,Moderate,45.5,32.6,Low
+22,Male,Sewing Operator,4.8,8,0,3,1,3,4,7.9,1,3,3,Moderate,51,37.4,Low
+39,Female,Ironing,10.6,10,4,3,3,3,1,6.6,5,2,3,Poor,65,33.1,High
+46,Male,Sewing Operator,12.4,10,1,1,4,4,3,7.6,3,4,1,Poor,76.1,32.9,Low
+20,Male,Cutting Operator,5.3,9,1,3,3,3,2,6.2,3,4,3,Good,64.3,31.1,Low
+29,Male,Cutting Operator,1.6,11,3,4,4,4,4,5.5,2,2,2,Good,52.4,30,High
+43,Male,Ironing,8.1,8,2,4,5,4,3,5.4,4,5,3,Good,66.8,32.6,Low
+33,Male,Packaging,5.1,9,3,1,4,3,3,4.8,1,2,5,Good,60.3,33.7,High
+54,Female,Cutting Operator,4.8,8,4,1,3,2,3,6,4,3,2,Good,76.3,30.5,Low
+39,Male,Sewing Operator,19.2,10,0,2,,3,,6.9,2,5,3,Good,73.5,33.9,Low
+46,Female,Sewing Operator,12.5,10,3,4,1,4,3,6.3,4,4,3,Good,59.6,38.6,Low
+31,Male,Sewing Operator,11.4,9,2,2,5,2,2,6.7,4,5,4,Good,72.8,30.2,Low
+45,Female,Supervisor,8.6,10,3,4,3,3,5,8,2,3,3,Good,67.7,30.3,Low
+22,Female,Sewing Operator,8.9,9,1,2,2,4,3,5.9,3,2,4,Poor,78.7,29.7,Low
+47,Female,Packaging,11,10,4,3,3,3,3,9.3,3,2,4,Moderate,72.4,30.4,High
+22,Female,Cutting Operator,14.1,9,4,3,2,3,4,7.4,2,3,3,Poor,70.5,33.7,Low
+29,Female,Cutting Operator,14.2,9,4,4,3,2,3,6.3,4,4,3,Good,78.3,30.3,Low
+33,Male,Packaging,3.8,11,4,2,3,2,,6.2,3,2,3,Good,65.2,30.6,Low
+43,Male,Sewing Operator,10.3,9,4,3,3,4,3,5.3,3,3,4,Good,57.3,29.3,Low
+43,Male,Supervisor,8.5,8,4,2,4,1,4,6.5,2,3,1,Good,67,31.5,Low
+38,Female,Packaging,17.5,10,0,4,2,2,2,3.9,3,3,3,Good,61.4,28.5,High
+53,Male,Sewing Operator,12.8,12,2,4,3,4,4,8,4,3,3,Poor,71,26.3,High
+50,Female,Sewing Operator,10.9,9,4,2,3,3,4,3.1,3,3,3,Poor,65.6,31.3,Low
+47,Male,Cutting Operator,2.8,8,2,4,3,5,2,6.6,5,4,3,Good,69,35.9,High
+54,Male,Ironing,12.3,9,4,3,4,5,2,5.1,5,2,3,Good,53,29.1,Low
+40,Male,Supervisor,2.8,10,3,2,3,2,3,5.7,2,4,2,Good,70.1,26.9,Low
+27,Male,Cutting Operator,7.1,8,4,3,3,1,5,5.8,2,1,3,Good,52.1,35.7,Low
+22,Male,Packaging,3.3,10,1,2,2,4,2,8.8,4,2,3,Good,74.6,30.1,Low
+53,Male,Packaging,14,12,0,4,5,3,3,5.2,3,3,5,Good,74.6,32.8,High
+51,Male,Packaging,4.5,9,3,4,3,2,1,7.6,1,4,2,Good,68.5,27.8,High
+48,Male,Sewing Operator,8.1,9,3,2,4,4,3,7.9,2,2,4,Good,68.1,30,High
+27,Male,Packaging,18,9,1,3,1,1,3,3.7,3,3,3,Good,62.8,34.2,High
+36,Male,Supervisor,4.5,8,4,4,2,4,5,5.8,4,3,1,Good,59,30.4,Low
+49,Female,Ironing,10.4,11,0,5,3,2,3,8.3,2,2,4,Good,64.9,30.4,High
+18,Male,Cutting Operator,8.7,9,3,3,4,2,4,4.9,2,4,1,Poor,84.8,25.5,High
+22,Male,Packaging,0.9,9,0,5,3,2,3,7.9,5,4,5,Good,67.3,32.4,High
+21,Male,Ironing,16,10,3,3,5,5,1,6.5,4,2,4,Poor,51.5,27.6,High
+33,Male,Ironing,1.8,9,4,3,3,3,,6.4,3,3,2,Poor,47.9,33.4,Low
+41,Male,Packaging,9.7,10,3,4,3,4,3,6.6,4,4,2,Poor,50.6,30.6,Low
+33,Male,Ironing,11.4,8,3,3,2,3,5,6.9,3,3,3,Moderate,61.2,30.9,Low
+19,Male,Sewing Operator,12.8,11,2,3,4,3,4,5.4,4,3,3,Moderate,77.7,32.3,High
+45,Male,Packaging,13.9,11,4,3,2,2,2,6.2,3,1,3,Poor,54.8,31.1,Low
+49,Male,Sewing Operator,5.4,10,1,4,4,3,2,6.9,2,3,3,Good,79.2,35.2,Low
+44,Female,Sewing Operator,0.7,12,1,4,5,3,2,6.7,4,2,3,Good,66.8,34.7,High
+37,Female,Packaging,14.6,8,4,,5,3,5,6.9,3,4,2,Poor,69.8,26.3,High
+41,Male,Ironing,10.9,9,1,3,3,2,4,5.6,5,3,4,Moderate,69.6,29.5,High
+29,Male,Cutting Operator,16.8,10,4,3,3,5,4,7.3,3,2,4,Poor,70.9,32.5,Low
+52,Male,Ironing,16.5,10,1,3,4,2,3,6.7,5,4,3,Moderate,60.9,27.2,Low
+50,Male,Ironing,16.9,9,2,2,2,5,3,4.6,5,1,4,Poor,41.7,25.3,High
+50,Female,Packaging,10,9,1,4,3,1,3,5.9,2,3,2,Moderate,59.1,27.7,Low
+54,Male,Ironing,7,8,3,3,,3,2,5.4,4,3,1,Moderate,56.1,29.7,High
+29,Male,Sewing Operator,15.9,9,4,3,3,3,3,5.4,3,2,3,Moderate,68.1,17.8,Low
+20,Male,Sewing Operator,9.3,8,0,2,2,3,1,5.9,5,5,3,Poor,67.2,26.7,High
+18,Female,Sewing Operator,4.1,10,0,2,2,3,2,7.2,3,4,3,Poor,62.3,24.7,Low
+50,Male,Packaging,17.2,9,4,5,3,3,,5.7,4,1,4,Poor,82.6,33.4,Low
+27,Male,Sewing Operator,17.7,8,2,3,,3,4,,3,4,5,Moderate,58.6,32.8,High
+46,Male,Sewing Operator,9.6,10,1,2,3,4,3,6.6,2,3,3,Good,42.7,30.8,Low
+30,Male,Sewing Operator,2,10,2,3,1,3,3,5.6,2,5,4,Good,66.2,30.3,Low
+29,Male,Cutting Operator,8.1,11,0,3,3,4,3,6.1,3,3,1,Poor,76.9,31.6,Low
+48,Male,Sewing Operator,16.2,10,4,1,2,2,4,7.5,4,3,2,Moderate,67.9,27,Low
+19,Male,Packaging,18.1,9,4,3,3,3,4,6.7,3,3,4,Good,61.4,33.8,High
+52,Male,Sewing Operator,4.5,11,2,3,3,3,4,7.2,3,3,3,Good,67.4,30.3,High
+40,Male,Ironing,1.8,10,2,3,3,3,4,8,2,3,3,Poor,83.4,32.8,High
+34,Male,Sewing Operator,17.6,8,1,3,4,3,2,7,3,2,3,Poor,56.2,32.6,High
+43,Male,Sewing Operator,8.1,10,3,3,3,3,3,4.2,1,4,3,Poor,65.3,31.6,High
+25,Male,Packaging,11.1,11,3,5,4,2,,6.8,4,3,2,Moderate,71.7,30.9,High
+46,Female,Sewing Operator,19.4,9,1,3,3,2,3,5.8,5,5,3,Good,67.5,30.7,High
+43,Male,Sewing Operator,1.8,9,3,2,,2,4,8.7,3,2,2,Good,62.5,29.8,Low
+27,Male,Sewing Operator,13.1,8,0,2,3,3,3,7,1,3,1,Good,60.7,31.4,Low
+43,Male,Sewing Operator,1.9,8,3,3,1,3,2,5.8,2,5,3,Poor,62.1,30.6,Low
+51,Male,Sewing Operator,7.8,9,1,4,3,5,3,7.2,3,3,2,Good,70.3,28.5,High
+24,Female,Sewing Operator,16.2,10,3,2,3,4,5,6.6,3,4,4,Moderate,69.7,31.8,High
+21,Male,Supervisor,9,8,4,4,3,1,2,4.4,4,4,1,Moderate,85.9,30.8,High
+28,Female,Packaging,19.9,11,2,1,1,4,3,7.5,2,3,2,Moderate,49.6,33.6,Low
+46,Male,Packaging,11.4,10,0,3,1,4,3,6,4,3,3,Poor,82.6,24.6,High
+53,Male,Sewing Operator,6.8,10,4,4,5,3,1,8.2,3,2,3,Good,63,30.1,High
+42,Female,Cutting Operator,4.8,11,4,3,3,3,3,6.4,3,3,1,Moderate,64.1,27.8,High
+38,Female,Sewing Operator,7.3,8,1,3,2,5,4,8.2,3,2,1,Good,73.6,28.4,Low
+53,Female,Sewing Operator,7.8,9,2,,3,3,,7,2,4,5,Good,73.5,31.7,High
+27,Female,Ironing,1.8,10,2,4,3,5,4,7.7,3,3,3,Good,76.6,25.7,High
+54,Male,Sewing Operator,7.7,11,0,1,4,1,2,5.9,4,3,3,Good,78.7,30.4,High
+26,Female,Sewing Operator,9.6,10,1,,1,2,1,6.9,3,2,3,Moderate,64.6,30.1,Low
+41,Male,Packaging,14.6,9,0,2,2,3,5,4.4,4,5,2,Moderate,78.9,26.9,Low
+52,Female,Cutting Operator,13.3,11,3,4,4,3,3,6.3,3,1,3,Good,58.7,30.5,High
+52,Male,Packaging,14.3,8,4,3,1,4,3,4.7,2,1,3,Good,61.9,27.7,Low
+53,Female,Ironing,0.7,11,0,4,2,5,4,5.1,3,2,4,Moderate,63.2,36.6,Low
+35,Male,Cutting Operator,4.7,12,4,3,5,3,3,5.4,3,5,2,Poor,59.7,33.6,Low
+49,Male,Sewing Operator,13.4,8,1,5,3,1,,7.3,3,5,4,Good,65.6,30.2,Low
+41,Male,Sewing Operator,9.9,10,3,,2,4,2,6.3,2,3,2,Moderate,74,28.7,Low
+40,Female,Sewing Operator,0.6,8,1,2,,3,2,6.5,3,4,2,Moderate,71.5,31.5,Low
+49,Male,Packaging,16.2,9,3,3,1,2,2,6.3,1,2,1,Moderate,58.9,32.3,Low
+54,Male,Packaging,15.6,10,3,1,2,3,4,7.8,1,5,2,Good,58,30.8,Low
+29,Male,Cutting Operator,11.2,10,4,2,4,4,2,6.5,3,2,5,Moderate,56.4,27,High
+30,Male,Ironing,1.8,11,1,5,3,4,4,6.8,3,2,3,Moderate,65.9,29.4,High
+40,Female,Ironing,15.4,10,1,5,4,3,5,5.8,5,2,1,Moderate,49.2,30.2,High
+42,Male,Sewing Operator,11.9,9,0,3,5,3,3,7.9,3,3,5,Moderate,56.1,30.9,High
+52,Female,Supervisor,15.7,11,1,5,3,5,3,8,4,4,4,Poor,60.4,30.9,High
+47,Male,Cutting Operator,15.2,12,0,3,2,3,3,6.5,3,3,4,Good,75.6,32.2,Low
+34,Male,Supervisor,16.2,8,2,2,3,3,3,5.8,4,5,5,Poor,63.7,34,High
+37,Female,Sewing Operator,10.6,12,2,4,5,2,3,4.6,2,3,2,Moderate,75.1,33,High
+42,Male,Ironing,3.2,8,2,3,4,4,3,5.5,5,2,4,Moderate,66.9,31.8,Low
+39,Male,Sewing Operator,13.6,11,1,5,1,2,5,3.9,3,3,3,Good,60.3,26.2,Low
+30,Male,Sewing Operator,12.6,9,1,2,3,2,5,5.4,4,3,4,Good,60.7,33.6,Low
+36,Female,Sewing Operator,15,8,0,3,3,3,4,6.9,3,4,4,Moderate,53.3,32.5,Low
+53,Male,Ironing,3.8,9,3,1,5,2,4,6.4,2,3,3,Moderate,89,29.2,Low
+29,Female,Ironing,4.3,10,0,2,2,3,3,9.3,3,3,4,Good,76.1,30.1,Low
+36,Female,Sewing Operator,17.9,9,2,1,3,2,3,6.1,1,2,2,Moderate,71,30.2,Low
+29,Male,Sewing Operator,15.1,8,0,5,4,3,4,6,3,3,3,Good,52,28.7,High
+26,Male,Packaging,18.2,10,3,4,3,2,3,7.8,2,5,2,Poor,60.5,24.8,Low
+24,Male,Sewing Operator,15.3,11,1,4,3,1,5,4.2,3,1,5,Poor,55.2,26.7,Low
+45,Male,Sewing Operator,12.1,9,0,3,1,2,3,4.7,5,4,2,Good,66.3,27.3,Low
+31,Male,Packaging,13.3,9,2,3,2,5,3,7.3,3,3,3,Poor,55.7,24.1,Low
+48,Male,Supervisor,17.8,9,2,2,3,4,4,6.3,4,2,3,Poor,58.3,26.7,Low
+36,Male,Sewing Operator,11.8,8,1,2,,2,5,6.3,3,5,5,Good,56,33.4,Low
+33,Female,Sewing Operator,12.8,11,0,3,2,4,2,5.4,3,3,3,Moderate,62.6,31.5,Low
+22,Female,Sewing Operator,3.6,11,3,4,3,3,,6.8,5,3,4,Good,65.7,27.1,Low
+52,Female,Cutting Operator,9.7,10,1,3,3,5,3,5.5,4,2,4,Moderate,62.9,27.9,High
+29,Male,Ironing,14.5,9,0,1,2,3,2,6.6,4,2,3,Good,80.3,33.7,Low
+42,Male,Ironing,5.8,10,4,1,3,3,4,5.1,2,4,3,Good,73.1,33.6,Low
+38,Male,Sewing Operator,4.4,10,2,,4,1,3,6.3,3,3,4,Good,57.2,30.2,Low
+53,Female,Packaging,6.6,11,3,3,4,3,,8.9,2,5,5,Good,68.3,33.5,Low
+40,Male,Sewing Operator,5.2,10,3,5,3,5,3,6,3,2,4,Poor,58,27.7,Low
+33,Female,Ironing,4.7,10,3,3,3,3,3,6.3,3,2,2,Good,61,30.7,Low
+31,Male,Cutting Operator,8.8,10,2,4,2,2,3,6.3,4,1,4,Good,69.8,25.6,Low
+48,Male,Ironing,18.2,9,0,3,5,2,3,6.7,4,3,3,Poor,71.7,28.9,Low
+22,Female,Cutting Operator,10.4,12,1,3,2,4,2,7.1,3,5,3,Good,59.1,30.1,Low
+52,Male,Ironing,4.2,10,0,2,4,3,5,6.8,1,3,4,Moderate,54,24.9,High
+40,Female,Sewing Operator,2,10,1,4,2,3,3,,4,3,2,Poor,65.9,31.8,Low
+46,Female,Cutting Operator,14.1,9,3,4,5,5,4,6.3,2,4,4,Poor,69.3,32.3,High
+28,Male,Sewing Operator,8,10,0,2,4,1,,,3,4,3,Good,58.6,33,Low
+35,Male,Packaging,16.5,10,3,3,4,3,3,6.2,1,1,4,Good,73.2,37,High
+29,Male,Sewing Operator,13.4,8,4,3,2,5,3,4.3,3,4,2,Poor,71.4,31.3,Low
+26,Female,Sewing Operator,16,8,3,3,3,3,3,9.7,5,3,3,Good,58.5,29.8,Low
+27,Male,Packaging,5.8,10,3,5,3,2,3,,2,2,4,Good,76.3,25.2,High
+34,Male,Sewing Operator,14,10,1,3,4,3,3,5.3,3,2,1,Good,76.6,31.2,Low
+24,Male,Packaging,5.6,10,4,,2,4,3,6.8,3,3,2,Good,85.7,31.7,Low
+30,Female,Packaging,18.8,9,3,1,5,2,2,4.9,5,3,5,Moderate,82.1,25.9,High
+26,Male,Sewing Operator,12.9,10,3,1,4,5,3,5.9,4,2,2,Moderate,56,29.3,Low
+44,Female,Sewing Operator,6.8,8,4,2,2,4,2,4.7,2,2,5,Poor,74.2,30,Low
+19,Female,Packaging,5.8,9,4,1,4,2,2,6.4,1,4,2,Moderate,73.8,31.6,Low
+22,Male,Sewing Operator,4.2,8,0,4,3,4,5,4.6,3,5,3,Good,61.5,32.6,Low
+46,Male,Ironing,14,8,1,4,3,3,3,,3,4,4,Good,69.5,28.4,High
+54,Female,Ironing,4.8,9,4,2,3,3,3,7.3,3,2,3,Poor,46.2,30.6,Low
+36,Male,Supervisor,12.1,9,4,4,3,4,3,5.5,1,2,3,Good,45.9,31.7,Low
+25,Female,Ironing,5.7,8,2,,4,5,5,6.7,2,2,3,Good,47.9,29.5,Low
+18,Male,Packaging,13.4,9,4,3,3,2,3,5.4,3,2,4,Poor,68.9,28.7,Low
+39,Male,Ironing,16.4,10,1,2,3,3,4,7.1,2,3,2,Moderate,69.4,32.1,Low
+34,Female,Sewing Operator,15.7,9,3,3,3,3,3,5.7,4,3,3,Good,62.3,29.5,High
+24,Male,Sewing Operator,15.3,9,3,2,4,3,5,7.4,1,4,2,Poor,82.2,26.4,Low
+42,Male,Supervisor,4.2,11,3,3,1,3,4,4.3,2,3,3,Poor,74.9,34.1,Low
+21,Male,Packaging,2.2,8,3,,4,1,4,5.3,5,2,2,Good,49,26.7,Low
+53,Male,Supervisor,14.1,10,2,5,3,3,2,5.2,3,3,3,Poor,63.3,29.7,High
+23,Male,Supervisor,7.7,8,4,1,2,3,2,6.7,4,3,3,Good,55.6,31,Low
+48,Male,Cutting Operator,8.9,8,3,2,2,2,,7.2,2,3,1,Moderate,69.1,31.4,High
+36,Female,Cutting Operator,1.1,10,0,1,3,4,2,6.8,3,2,1,Poor,64.7,30.5,Low
+44,Male,Packaging,5.6,10,3,3,4,4,4,5.9,4,3,3,Poor,56.2,21.2,High
+27,Male,Sewing Operator,1.2,11,4,,3,3,1,3.1,3,2,3,Good,81.9,27.9,High
+43,Male,Packaging,17.6,10,3,4,,2,1,6.5,4,1,4,Good,65.6,30.9,High
+36,Female,Sewing Operator,5.2,12,2,3,1,3,2,7.4,3,4,3,Good,60.8,29.7,High
+20,Male,Ironing,11.4,8,1,3,3,2,2,9.7,3,4,1,Moderate,62.5,31.5,Low
+30,Female,Ironing,1.3,8,1,3,5,2,2,6,3,2,3,Good,81.2,33.1,Low
+45,Male,Ironing,13.5,8,4,2,4,4,4,5.7,3,1,1,Good,74.1,31.5,High
+37,Male,Sewing Operator,6.8,8,1,2,2,1,3,6.9,2,4,4,Good,63.4,27.8,Low
+45,Male,Sewing Operator,18,10,1,3,3,1,1,6.2,3,2,5,Good,55.1,28.4,High
+25,Male,Packaging,17.8,10,0,3,2,1,3,8,3,3,3,Good,56.6,34.9,High
+18,Male,Sewing Operator,6.8,8,4,2,3,2,3,5.5,3,1,3,Poor,60.2,29.5,High
+20,Male,Cutting Operator,18.1,11,4,2,4,1,2,6.2,4,2,2,Good,70.1,29.7,High
+30,Female,Sewing Operator,19.9,11,1,5,4,5,3,7.6,3,4,3,Good,72.6,31.5,High
+45,Male,Sewing Operator,16.6,9,1,1,2,2,4,6.9,5,4,4,Poor,57.7,33.7,High
+42,Male,Sewing Operator,17,8,1,4,5,2,4,7.9,2,2,2,Moderate,73,27.3,High
+50,Male,Ironing,5.4,8,2,4,3,2,4,6,3,3,2,Good,55.9,28.5,Low
+23,Female,Ironing,11.7,8,3,2,3,5,1,8,4,2,3,Good,58.9,25.2,Low
+49,Male,Sewing Operator,1.8,8,2,2,3,3,5,4.5,3,1,4,Moderate,50.5,29.1,Low
+38,Male,Sewing Operator,2.4,10,4,2,3,3,4,4.6,3,5,3,Good,50.2,31.7,High
+33,Male,Packaging,20,9,0,3,3,4,5,8,1,3,5,Moderate,55.8,28.9,Low
+38,Female,Sewing Operator,6.9,9,3,3,3,3,1,6.5,3,3,1,Good,64.7,35.3,Low
+28,Male,Ironing,15.1,12,0,4,3,3,5,7.6,2,4,3,Good,55.1,30.3,High
+54,Male,Ironing,16.2,10,4,5,2,2,4,6.6,5,4,4,Good,80,29.7,High
+53,Female,Sewing Operator,17.2,11,4,3,4,3,4,6.5,3,4,2,Moderate,55.7,28.9,Low
+52,Female,Sewing Operator,20,8,0,2,3,3,1,4.9,4,1,3,Poor,66.8,25.9,High
+36,Male,Cutting Operator,5.2,9,0,2,2,3,4,6.5,3,2,2,Good,78.2,29.7,Low
+37,Female,Packaging,1.3,10,0,4,,2,5,8.1,3,3,1,Moderate,65.9,31.1,Low
+35,Male,Ironing,8.5,8,4,2,5,3,3,6.6,3,3,2,Good,61.4,29.6,Low
+31,Male,Sewing Operator,3,8,1,1,5,1,3,7.3,4,5,5,Good,66.5,30.7,Low
+32,Male,Packaging,0.9,10,0,4,3,2,5,7.3,4,3,3,Poor,59.4,28,High
+48,Male,Sewing Operator,7.5,10,3,3,2,3,3,,2,5,4,Good,55,26.3,Low
+18,Male,Packaging,15.8,9,4,5,3,5,3,7.5,3,2,3,Poor,71.1,29.7,High
+20,Female,Cutting Operator,11.5,9,2,3,2,3,3,6.1,3,4,3,Moderate,59.2,30.7,Low
+33,Male,Sewing Operator,6.6,9,2,1,5,3,5,6.2,1,3,3,Poor,74.4,29.5,High
+40,Male,Sewing Operator,13.3,8,3,5,2,2,1,9,3,5,5,Moderate,73,30.6,High
+28,Male,Sewing Operator,5,9,1,2,2,2,3,7.2,4,2,4,Good,66.7,32.3,Low
+29,Female,Sewing Operator,0.8,8,0,3,3,1,3,5.7,3,3,4,Good,74.7,32.3,High
+27,Male,Sewing Operator,15.4,8,4,3,3,3,4,6.6,4,4,1,Good,59.6,32.6,Low
+49,Male,Sewing Operator,12.7,12,0,1,,2,3,6.5,3,3,3,Good,72.8,33,High
+33,Male,Supervisor,15.4,10,4,,3,2,5,8.5,3,3,3,Good,72.8,31.5,High
+25,Male,Packaging,1.3,10,2,2,2,4,5,6.5,2,5,5,Good,62,31.1,High
+29,Female,Sewing Operator,16.8,9,0,3,2,1,1,9.1,4,3,2,Poor,60.7,35.8,Low
+41,Female,Cutting Operator,12.6,9,3,3,3,3,3,4.9,4,3,2,Good,68.3,32.4,High
+45,Male,Sewing Operator,11.5,9,1,4,2,3,1,6.5,3,1,3,Moderate,84.7,27.5,Low
+25,Female,Cutting Operator,12.7,8,3,4,3,3,3,5.6,1,4,2,Poor,62.7,24.4,High
+45,Male,Sewing Operator,17.4,8,1,2,3,3,3,5.9,2,3,2,Poor,60.5,29.3,High
+53,Female,Cutting Operator,11.9,10,0,,4,3,5,5.9,1,3,4,Good,76.8,31.9,Low
+43,Male,Ironing,11.8,10,0,3,5,2,4,5.6,3,1,3,Good,65.7,32.9,High
+25,Male,Supervisor,19.8,10,1,2,5,4,2,8.6,4,3,4,Good,73.7,26.2,High
+45,Male,Cutting Operator,15.3,9,2,,5,4,1,8.2,2,1,4,Good,79.7,32.2,High
+45,Male,Sewing Operator,9.1,11,4,4,2,2,3,7,4,1,2,Good,45.9,33.4,High
+54,Male,Cutting Operator,14.3,8,3,2,2,1,3,,3,3,3,Poor,64.6,31.8,Low
+53,Male,Sewing Operator,8.1,9,3,3,3,4,2,5.7,3,2,1,Good,62.7,31.2,Low
+44,Male,Sewing Operator,5,9,3,2,4,3,4,7.4,5,2,5,Moderate,55.4,29.6,High
+34,Female,Sewing Operator,12.1,10,0,3,5,3,5,6.9,1,3,3,Poor,45.8,28.6,High
+26,Male,Packaging,18.6,12,3,2,4,3,3,6.3,5,1,3,Good,49.1,32.4,High
+50,Male,Sewing Operator,18.6,9,4,5,2,2,4,7.1,2,3,3,Good,66,31.8,Low
+37,Female,Packaging,7.2,11,4,4,5,3,3,7.6,3,2,3,Moderate,59.7,29,High
+30,Male,Packaging,10.8,11,1,3,3,3,4,6.3,4,3,2,Good,57,37.6,High
+45,Male,Supervisor,4.6,9,0,3,1,2,3,5.6,5,3,3,Moderate,65.9,25.5,Low
+46,Male,Supervisor,19.9,9,4,5,,3,,4.9,3,4,4,Good,58.1,29.3,High
+30,Female,Packaging,19.6,9,2,3,1,4,5,6.8,3,2,4,Poor,77.9,27.7,Low
+52,Male,Sewing Operator,13.2,12,0,2,3,3,3,9.1,4,1,3,Good,58.8,31.2,Low
+23,Male,Sewing Operator,16.2,8,0,3,3,1,4,5.2,4,1,3,Good,80.1,24.2,Low
+35,Female,Sewing Operator,14.4,10,4,4,3,3,3,7.8,2,3,4,Moderate,64.7,33.8,High
+22,Female,Sewing Operator,12.1,9,2,3,3,4,1,5.7,4,5,1,Good,58.5,33,High
+42,Male,Sewing Operator,1.5,10,1,3,4,4,2,5.9,3,2,4,Good,57.8,30.8,Low
+19,Male,Sewing Operator,9.4,9,4,4,3,3,3,7.6,3,2,2,Good,80.1,29.1,Low
+27,Male,Cutting Operator,13.7,10,2,4,3,2,3,,3,2,3,Good,72,32.1,Low
+47,Female,Packaging,13.7,11,0,5,4,4,3,6.8,3,3,3,Moderate,57.4,31,High
+22,Male,Sewing Operator,7.8,11,2,1,5,3,3,6.8,5,3,3,Moderate,66.2,32.9,Low
+50,Male,Packaging,18.9,11,0,3,2,1,3,5.7,3,3,4,Moderate,41.4,29.6,Low
+18,Female,Sewing Operator,3.8,8,4,4,3,3,4,7.6,5,4,2,Moderate,51.7,29.5,High
+35,Male,Packaging,10.3,10,4,,2,3,3,6.4,2,3,3,Good,57.5,33.2,Low
+49,Male,Ironing,14,8,3,3,1,3,5,4.8,4,2,3,Good,57.3,31.9,Low
+28,Male,Packaging,14.1,9,3,2,3,2,3,5.4,4,2,4,Moderate,77.1,29.5,Low
+38,Male,Packaging,13.1,10,3,4,4,3,3,2.8,3,3,2,Poor,45.9,31.1,Low
+43,Male,Cutting Operator,5.9,9,4,4,2,5,2,6.6,3,3,4,Good,50.7,30.6,Low
+42,Male,Cutting Operator,3.5,10,1,1,4,4,3,8.1,3,3,3,Good,69.5,31.4,Low
+39,Male,Ironing,12.9,12,4,3,4,5,1,5.2,4,3,2,Good,67.3,33.8,High
+44,Male,Packaging,12.2,8,2,2,5,5,3,7.2,4,3,4,Moderate,61.5,29,Low
+30,Female,Ironing,4,10,4,3,2,1,2,7,2,4,1,Moderate,85.5,28.1,Low
+50,Male,Sewing Operator,14.3,9,4,1,5,3,3,5.6,4,3,3,Good,71.2,30.8,Low
+51,Female,Sewing Operator,9.4,8,0,3,3,3,4,8.3,3,4,1,Moderate,77.2,28.4,Low
+52,Male,Sewing Operator,13.5,8,0,3,3,4,3,6.2,2,2,3,Good,64.5,27.3,Low
+18,Female,Packaging,16.8,11,0,3,1,2,2,8.9,4,3,3,Good,59.6,33,Low
+38,Female,Packaging,3.8,11,4,3,1,5,2,4.5,3,5,3,Poor,59.7,29.1,High
+23,Male,Sewing Operator,0.9,11,1,4,4,3,4,6.2,4,3,3,Good,74.3,24.4,Low
+45,Female,Cutting Operator,15.7,12,2,2,3,4,2,6.3,2,4,3,Good,72.7,32.5,High
+34,Female,Cutting Operator,12.4,9,2,2,2,1,3,6.5,1,4,2,Poor,62.8,28.7,Low
+22,Male,Ironing,14.1,9,1,4,2,2,3,7.4,3,1,3,Poor,69.7,31.7,Low
+48,Male,Packaging,16.8,10,1,2,,4,3,10.6,2,3,5,Moderate,74.6,33.3,Low
+22,Male,Cutting Operator,16.2,9,2,5,1,1,3,7,4,2,4,Good,59.4,30.6,Low
+20,Female,Sewing Operator,19.2,9,3,,4,4,4,,2,5,2,Good,61.6,23.9,Low
+40,Female,Supervisor,11,9,0,3,1,1,1,5.2,3,4,1,Poor,69.5,24.1,Low
+54,Female,Sewing Operator,10,10,0,5,2,3,2,4.2,1,2,5,Moderate,47.1,28,High
+54,Male,Supervisor,8.3,10,2,1,3,3,2,7.9,2,2,3,Poor,69.7,29.8,High
+27,Female,Sewing Operator,3.5,8,1,3,3,3,2,5.8,4,3,3,Good,53.7,33.6,High
+27,Male,Cutting Operator,11.7,9,3,3,3,3,2,9.6,2,3,4,Good,74.4,30.9,Low
+36,Male,Cutting Operator,5.9,10,2,3,3,3,3,7.5,3,1,3,Poor,86.5,37.9,Low
+34,Male,Sewing Operator,18.5,10,0,5,5,2,3,6.9,5,3,3,Moderate,58,25.5,Low
+38,Male,Packaging,11.9,9,4,1,3,1,3,7,3,3,5,Good,51.5,30.4,High
+31,Male,Cutting Operator,12.1,10,1,3,1,3,3,7,4,2,3,Good,63.2,28.7,High
+26,Male,Packaging,7.4,8,4,3,3,3,4,5.7,2,4,2,Good,62.3,30.7,Low
+18,Male,Cutting Operator,1.5,9,2,,4,4,3,4.4,2,5,2,Good,71.6,35.3,High
+30,Male,Packaging,1.1,10,0,2,3,3,2,5.8,4,4,2,Good,67.3,35.4,High
+21,Male,Sewing Operator,8.8,10,3,3,1,3,3,6.5,4,4,4,Good,62,30.2,Low
+18,Male,Sewing Operator,2.1,9,4,4,4,3,1,5.7,3,2,2,Moderate,65.9,32.6,High
+49,Male,Sewing Operator,12.3,10,3,2,3,1,1,5,3,2,1,Good,53.8,30.6,Low
+51,Male,Supervisor,17.7,10,0,4,3,3,3,5.6,3,2,5,Poor,73.3,26.8,High
+45,Male,Sewing Operator,17.7,10,4,3,1,5,,7.7,1,4,2,Good,81.2,30,Low
+48,Male,Packaging,13.4,10,3,4,2,4,4,7.4,4,5,1,Moderate,53,28.5,Low
+25,Male,Packaging,4.6,10,3,4,,3,1,,3,4,2,Good,49.2,29.8,High
+43,Male,Packaging,17.3,9,4,2,2,3,4,,3,4,2,Moderate,61,27.4,Low
+51,Male,Cutting Operator,17.8,8,0,3,,4,,5.1,4,3,3,Poor,52.8,30.5,Low
+20,Male,Cutting Operator,4.3,9,3,4,3,3,3,5.5,3,3,5,Poor,52.2,30.9,High
+29,Female,Packaging,14.9,9,2,3,2,1,4,6.9,2,3,4,Moderate,51,32.1,Low
+18,Male,Supervisor,6.1,10,4,5,,1,3,5.3,4,1,3,Good,63.1,30.9,Low
+22,Male,Supervisor,16.2,10,1,3,4,3,2,6.6,4,1,3,Poor,60.9,34.9,High
+47,Male,Packaging,19.9,9,1,2,4,5,3,5,3,3,3,Poor,68.7,36.6,Low
+47,Male,Cutting Operator,1.1,8,0,3,1,3,,,2,3,2,Poor,59.4,28.8,Low
+34,Male,Sewing Operator,18,9,2,5,2,1,3,7.4,2,3,1,Good,52.8,32.9,Low
+40,Male,Sewing Operator,12.6,9,3,3,3,2,3,7.7,3,3,5,Poor,64.8,36.3,High
+32,Male,Cutting Operator,19.5,10,1,4,2,4,5,5.7,3,2,2,Good,54.4,33,High
+54,Male,Packaging,9.6,8,0,4,5,4,5,,4,3,2,Good,70.1,32.2,Low
+38,Male,Supervisor,17,10,2,3,2,3,4,3.8,5,3,3,Good,48.3,24.5,Low
+31,Female,Cutting Operator,1.7,11,2,1,3,3,4,8.7,4,3,3,Good,43.4,28.3,Low
+19,Female,Sewing Operator,7,8,0,4,3,1,5,6.6,3,4,1,Moderate,48.9,28.8,High
+28,Female,Cutting Operator,1.8,9,0,3,3,4,1,5.8,4,3,2,Poor,60.8,34.2,Low
+51,Female,Packaging,19.5,8,3,4,2,4,2,6.1,3,3,3,Moderate,62.1,27.8,High
+51,Male,Packaging,16.4,10,0,3,3,2,3,4.2,2,4,3,Moderate,66.4,29.7,Low
+35,Male,Ironing,17.1,10,3,3,2,4,4,7.2,1,4,2,Moderate,59.4,32.5,High
+47,Male,Cutting Operator,18.8,9,3,4,4,2,3,8.9,3,4,3,Moderate,56.5,27.7,Low
+32,Male,Sewing Operator,2.2,10,4,3,1,1,4,5.6,5,2,3,Good,79.3,30.8,Low
+44,Female,Packaging,8,11,2,3,5,2,2,9.4,2,1,4,Poor,76.7,30.4,High
+51,Male,Ironing,1.9,8,2,3,4,2,2,6.4,2,2,3,Moderate,74.9,32.6,High
+50,Female,Ironing,4.6,8,2,3,2,3,4,8.5,5,2,2,Moderate,68.1,32,Low
+41,Male,Ironing,5,11,4,3,4,3,,6.9,1,5,3,Moderate,68.9,31.9,Low
+32,Female,Sewing Operator,9.6,10,3,4,1,3,3,6.9,4,3,4,Poor,56.9,30.6,High
+47,Male,Sewing Operator,5.7,11,3,3,5,3,,8.7,3,1,2,Good,66.4,25,High
+34,Male,Sewing Operator,2.5,10,0,3,3,2,3,7.4,1,2,3,Good,55.6,30.4,Low
+22,Male,Supervisor,3.8,11,4,3,3,1,4,6.9,5,2,1,Moderate,54.5,30.2,Low
+46,Male,Sewing Operator,3.4,9,0,2,3,3,3,4.2,2,3,1,Good,48.8,32.3,Low
+21,Male,Sewing Operator,19.5,10,4,2,1,3,3,,3,4,3,Poor,69.1,28.7,Low
+27,Male,Cutting Operator,15.3,11,0,5,5,2,1,7.1,2,4,2,Good,66.6,30.1,High
+34,Female,Sewing Operator,19.4,10,1,4,1,4,4,8.3,1,5,4,Good,62,30.2,High
+27,Male,Cutting Operator,9.1,8,2,3,3,4,3,6.7,1,2,3,Poor,60.7,27.9,Low
+34,Male,Ironing,5.9,9,2,3,3,4,3,,2,3,3,Good,46.7,26.5,Low
+37,Male,Supervisor,16.1,8,3,1,5,3,4,4.3,1,2,3,Moderate,67.6,31.1,Low
+41,Female,Sewing Operator,6.9,9,1,,2,2,2,5.6,4,3,3,Good,61.8,33,Low
+22,Male,Sewing Operator,6.3,9,2,3,,3,4,6.7,3,5,1,Good,74,28.1,Low
+51,Male,Ironing,5,10,3,3,3,2,3,5.5,3,3,4,Moderate,66.5,29.3,Low
+23,Male,Supervisor,3,10,1,3,,3,3,5.3,3,4,5,Good,72.1,32.5,High
+19,Male,Ironing,5.5,9,2,1,1,1,2,6.4,5,3,2,Poor,64.9,32.8,Low
+30,Male,Sewing Operator,7.4,10,0,2,2,4,5,8.2,5,1,2,Moderate,66.8,30.7,High
+28,Male,Supervisor,13.6,8,4,5,2,2,4,,4,1,2,Good,74.3,31.2,Low
+40,Male,Supervisor,1.7,8,1,3,4,5,2,6.8,4,3,3,Moderate,63.1,31.6,High
+33,Female,Ironing,4.6,8,3,3,2,4,3,6.7,3,4,3,Moderate,69.7,32.1,High
+48,Male,Supervisor,16.3,10,1,1,3,3,4,7.2,3,2,4,Good,60.6,26.8,Low
+28,Male,Supervisor,3.4,9,3,1,2,4,3,6.4,3,4,4,Good,63.7,35.8,Low
+33,Male,Ironing,7.2,9,1,,4,3,4,6,3,4,3,Good,80.9,30.8,Low
+25,Female,Sewing Operator,17.4,9,3,3,5,4,3,7.4,3,3,3,Moderate,71.4,32.2,Low
+21,Male,Packaging,3.5,11,2,3,3,3,4,6.2,3,4,3,Moderate,59.6,27.7,Low
+21,Female,Sewing Operator,2.1,8,0,2,3,4,3,5.1,5,3,3,Moderate,69.2,29.4,Low
+42,Male,Packaging,9.9,10,2,4,2,3,2,8.2,4,3,3,Moderate,52.2,31.1,Low
+20,Male,Packaging,6.4,10,0,2,1,5,3,4.3,3,4,3,Moderate,62.8,24.6,Low
+49,Male,Sewing Operator,11.5,10,2,2,2,3,5,8.3,4,5,3,Moderate,55.5,27.3,Low
+20,Female,Sewing Operator,16.2,11,2,3,3,3,3,7.1,2,3,3,Moderate,69.5,27.8,Low
+44,Male,Sewing Operator,3.2,8,1,2,3,4,3,5.3,2,3,3,Good,63.1,26.2,Low
+46,Female,Supervisor,11.8,8,4,2,5,4,3,6.5,3,2,4,Poor,67.8,30.3,High
+49,Female,Cutting Operator,10.4,11,3,3,3,3,3,6,3,2,3,Moderate,72.7,29.8,Low
+36,Male,Sewing Operator,3.3,9,3,3,3,2,4,7.5,1,3,3,Poor,60.4,34.3,Low
+38,Male,Cutting Operator,12.7,10,3,4,3,3,4,7.4,4,5,3,Moderate,60.8,26.6,Low
+22,Male,Packaging,5.8,10,0,3,3,5,1,7.1,3,3,3,Good,64.6,30.7,Low
+35,Male,Sewing Operator,10,10,3,1,2,4,5,7.4,3,2,2,Moderate,56.4,27.4,Low
+45,Female,Sewing Operator,2.1,11,3,2,3,4,4,6.4,1,2,1,Good,64.9,24.8,Low
+39,Female,Packaging,9.5,12,1,5,3,1,4,8.6,2,3,3,Moderate,65.4,31.8,High
+38,Male,Supervisor,6.5,10,2,3,4,3,3,8,4,2,3,Good,67.3,32,High
+23,Male,Ironing,16.5,9,3,4,5,3,,5.9,3,2,5,Poor,69.2,31.7,High
+18,Female,Sewing Operator,1.6,11,4,1,3,4,2,7.5,5,4,3,Moderate,49,26.1,High
+22,Male,Sewing Operator,8.7,8,3,,1,1,3,7.4,5,1,3,Moderate,52.1,30.3,Low
+29,Female,Packaging,9.4,9,0,1,3,4,4,6.2,3,3,2,Good,53.3,31.8,Low
+43,Male,Sewing Operator,14.6,11,0,3,3,3,2,6.1,2,4,1,Poor,65.9,32.9,Low
+51,Male,Sewing Operator,11.7,9,0,5,2,2,1,8,4,2,4,Poor,62.2,31.9,High
+31,Male,Sewing Operator,13.5,9,3,5,4,3,4,6.5,5,3,2,Moderate,42.3,32.9,High
+43,Male,Supervisor,15.7,8,1,3,5,2,4,6.8,3,3,3,Good,84.5,33.2,High
+44,Male,Cutting Operator,17.3,11,4,3,5,3,2,8.2,4,3,3,Moderate,45.1,30.3,Low
+26,Male,Packaging,6.6,10,3,5,2,1,4,9.5,4,3,3,Good,65.3,31.5,High
+43,Male,Cutting Operator,11,10,1,3,4,2,3,,3,3,4,Moderate,70.6,33,Low
+39,Female,Sewing Operator,16.9,9,1,1,4,4,,6.2,3,4,3,Good,57.8,31.2,Low
+47,Female,Packaging,19.8,10,3,3,3,2,4,6.6,4,4,2,Moderate,71.4,33.6,Low
+34,Male,Sewing Operator,17.8,10,3,2,3,2,3,6.6,3,3,4,Moderate,54.9,32.6,High
+43,Male,Ironing,7.7,9,1,3,4,3,2,7,1,2,4,Good,66.7,28.1,High
+53,Male,Cutting Operator,4.3,9,1,3,3,3,,5.9,3,1,2,Good,43.2,26.1,Low
+18,Male,Ironing,10,9,1,3,3,4,3,5,2,1,1,Poor,76.7,30.1,Low
+25,Male,Sewing Operator,15,12,3,3,3,3,3,8.6,2,3,1,Good,65,26.5,Low
+52,Male,Ironing,10.1,10,1,2,3,4,4,7.2,5,1,2,Moderate,49.1,30.2,Low
+32,Male,Sewing Operator,9.9,11,0,3,2,3,4,6,1,3,5,Good,71.3,30,Low
+39,Male,Cutting Operator,16.8,9,3,4,5,2,3,7,2,4,3,Good,81.3,33.9,Low
+31,Male,Packaging,7.5,10,0,3,3,2,4,8.7,3,2,3,Good,55.7,31.5,High
+43,Male,Packaging,17.3,10,2,,3,3,2,5.6,3,4,4,Moderate,62.9,32.9,Low
+45,Female,Packaging,8.4,10,3,5,1,3,,6.8,3,4,3,Good,59.9,28.5,High
+40,Male,Ironing,6.9,12,2,5,3,4,4,4.8,2,2,3,Poor,57.3,34.6,Low
+31,Male,Sewing Operator,9.4,9,1,2,2,3,1,6.4,2,4,5,Moderate,56.2,32.7,High
+41,Male,Ironing,15.4,8,1,1,1,3,2,7.2,2,4,4,Good,58.5,31.3,Low
+19,Male,Sewing Operator,3,10,4,4,3,2,3,5.2,3,3,4,Moderate,59.1,24.6,High
+43,Female,Ironing,4.3,10,1,4,3,2,3,,2,2,3,Good,61.4,33.5,High
+31,Male,Supervisor,19.1,10,2,5,3,3,4,7.5,5,3,4,Moderate,60.7,35.3,High
+24,Female,Supervisor,3.9,9,1,4,1,3,2,7.2,3,5,2,Good,72.6,30,Low
+20,Male,Packaging,11.6,10,3,3,3,3,1,5.1,1,3,3,Good,71.7,30.1,Low
+40,Male,Packaging,11.8,9,1,3,2,2,3,6.9,4,2,5,Moderate,49.7,28.4,Low
+35,Female,Sewing Operator,10,9,4,1,5,3,3,7.2,3,3,2,Poor,59.1,25.1,High
+52,Male,Supervisor,13.1,10,1,2,3,4,3,6.6,3,3,4,Good,77.5,28.3,High
+32,Male,Sewing Operator,5,10,2,3,3,2,3,7.8,2,3,3,Poor,67.9,35,Low
+42,Male,Packaging,11.3,9,2,3,3,3,4,5.8,3,4,1,Good,68.3,33.2,Low
+54,Male,Sewing Operator,7.8,9,1,3,1,5,5,7,4,3,4,Poor,67.4,27.7,Low
+45,Female,Sewing Operator,13.4,9,2,4,5,3,2,5.1,5,4,2,Moderate,62.4,28.3,High
+27,Male,Ironing,3.3,8,2,2,2,3,3,4.6,2,4,3,Good,64.6,36.4,High
+34,Male,Sewing Operator,11.6,10,4,3,3,1,3,7.4,3,3,1,Good,61,26.9,Low
+39,Male,Ironing,4.1,11,3,1,3,3,5,6.5,3,2,5,Good,73.6,27.9,High
+43,Male,Sewing Operator,5.9,9,4,3,,1,5,5.9,5,4,2,Good,61.1,28.7,Low
+42,Male,Sewing Operator,4.8,10,0,4,4,5,2,5.2,5,5,2,Good,63.9,25.9,High
+34,Male,Packaging,4.1,11,4,3,3,4,4,7.5,1,2,2,Moderate,72.4,28.4,High
+30,Male,Sewing Operator,16.6,11,1,5,2,4,3,4.7,2,3,5,Poor,61.7,28.4,Low
+37,Female,Sewing Operator,6.1,8,3,2,1,4,1,7.7,3,2,4,Good,64.3,27.3,Low
+42,Male,Ironing,18.6,12,1,3,2,3,1,7,2,4,4,Moderate,61.4,34,Low
+21,Male,Sewing Operator,19.4,9,0,3,4,3,,4.8,3,4,3,Moderate,64.1,26.5,Low
+27,Female,Supervisor,11.6,9,3,3,3,4,3,6.7,2,2,3,Poor,61.8,29.6,Low
+20,Male,Sewing Operator,3.3,8,2,,2,5,1,9.7,3,4,2,Moderate,59.6,27.4,Low
+35,Male,Sewing Operator,7.8,9,4,3,1,3,3,7.9,5,2,3,Moderate,57.9,29.4,Low
+53,Male,Ironing,16.1,8,1,4,3,5,2,5.5,5,4,2,Good,63.3,27.2,High
+39,Male,Sewing Operator,7.7,9,0,2,3,3,3,7.4,3,3,5,Good,75.2,30.2,High
+51,Male,Sewing Operator,2.2,9,2,4,3,3,3,4.8,3,3,4,Good,71.2,31,Low
+25,Female,Sewing Operator,11.4,11,4,1,3,3,2,4.9,4,2,3,Good,49.2,34.2,Low
+36,Male,Sewing Operator,17,11,2,4,2,2,3,6.4,2,2,2,Good,60.7,28.2,Low
+54,Male,Supervisor,16,9,4,3,3,1,2,7.2,3,3,4,Moderate,58.6,34.9,High
+23,Female,Sewing Operator,3.9,11,3,3,5,2,3,7.5,3,3,2,Good,49.4,27.6,Low
+43,Male,Supervisor,13.6,11,2,3,2,3,2,7.5,2,2,2,Moderate,67.8,29.3,Low
+51,Male,Cutting Operator,4.8,10,2,5,3,3,3,7.1,3,2,2,Good,64,35.3,High
+23,Male,Packaging,4.8,8,2,1,3,3,2,4.6,1,1,3,Poor,85.2,38.7,High
+54,Female,Cutting Operator,17.5,10,3,,3,5,3,6.4,3,4,4,Poor,61.7,35.1,Low
+50,Male,Sewing Operator,5.4,11,0,4,2,3,4,7.7,2,4,3,Good,57.2,29.3,Low
+39,Male,Cutting Operator,5.6,10,4,3,4,3,2,7,3,1,1,Good,56.3,31.5,High
+38,Male,Sewing Operator,0.5,9,2,2,3,2,,6.7,2,3,3,Moderate,60.5,32,High
+23,Male,Ironing,17.5,10,3,3,3,1,1,6.9,4,1,4,Good,70.9,31,Low
+23,Male,Packaging,16,10,0,3,3,4,3,6.9,3,5,2,Good,72,27,Low
+21,Male,Sewing Operator,12.7,10,4,5,2,3,2,4.1,3,5,2,Good,94.3,30.7,Low
+47,Female,Ironing,15.1,8,3,4,1,4,3,7.9,3,3,5,Poor,52.9,28.5,Low
+28,Male,Ironing,3.5,9,4,3,4,2,3,6.4,3,5,5,Poor,65.9,27.1,High
+47,Male,Sewing Operator,9.4,11,2,5,2,3,5,7.3,2,4,5,Moderate,58.2,29.1,High
+48,Female,Sewing Operator,7.3,11,0,3,3,2,3,3.7,4,4,4,Moderate,68.5,30.9,High
+41,Female,Ironing,2.3,8,3,1,3,2,,8.5,2,3,2,Poor,78.8,33,Low
+26,Male,Ironing,10,12,0,2,3,1,3,5.1,2,3,2,Poor,73.6,29.2,High
+20,Male,Cutting Operator,18.5,9,2,3,3,2,5,9.5,4,2,3,Poor,52.9,29.8,High
+48,Male,Supervisor,1.3,10,0,2,3,3,4,9,2,3,3,Good,71.8,32.4,High
+54,Female,Cutting Operator,6.2,10,0,5,2,2,2,4.9,3,3,5,Good,43.9,30.2,Low
+53,Female,Ironing,4.5,11,1,4,3,5,4,7.5,3,2,4,Moderate,41.2,31.1,Low
+41,Male,Sewing Operator,5.1,11,0,2,3,3,3,5.3,3,2,4,Moderate,62.5,30.2,High
+48,Female,Sewing Operator,18.2,9,4,3,3,2,4,5.7,4,3,2,Good,71.1,30.6,Low
+23,Male,Supervisor,9.6,11,3,4,2,2,4,5.8,3,2,5,Good,68.5,26.8,High
+19,Male,Ironing,9.6,8,1,5,3,3,,7,3,3,4,Poor,84.1,30.4,Low
+37,Male,Sewing Operator,15.3,10,3,4,,1,4,6.9,4,5,2,Poor,66.1,34.3,Low
+45,Female,Sewing Operator,3.5,10,3,3,2,4,2,,2,4,4,Good,63.9,30.5,High
+28,Male,Cutting Operator,10,10,2,4,1,5,2,7,3,3,2,Poor,76.6,27.5,Low
+21,Female,Packaging,8.9,9,2,3,4,2,2,6.3,3,3,1,Moderate,61.3,34.4,High
+32,Female,Packaging,12.1,11,1,3,2,3,4,4.3,3,3,3,Poor,68.9,32.2,Low
+23,Female,Packaging,20,8,2,2,,1,2,6,5,2,3,Good,69.5,32.3,Low
+47,Male,Sewing Operator,15.5,8,2,2,2,3,1,8.5,4,4,1,Good,55.3,32.2,Low
+19,Male,Sewing Operator,8.3,10,2,3,2,3,4,6,2,2,3,Good,68.9,26.6,Low
+32,Male,Sewing Operator,16.6,9,3,2,3,2,2,4.3,1,1,5,Good,86.9,31.9,High
+28,Male,Sewing Operator,3.8,11,1,1,,2,2,7.5,1,4,3,Moderate,76.4,34.2,Low
+25,Male,Supervisor,1.1,9,3,4,2,3,2,5.4,2,2,4,Good,56.6,28.6,Low
+43,Female,Packaging,4.5,8,4,1,3,3,3,6.8,2,3,2,Poor,88.4,24.2,High
+22,Male,Supervisor,7.1,11,3,3,3,2,3,6.3,3,1,1,Good,71.9,31.1,Low
+23,Male,Cutting Operator,10.5,10,4,,4,3,1,8.6,4,2,2,Good,69.2,30.1,High
+43,Male,Sewing Operator,12.5,8,0,5,,3,5,6.3,4,2,2,Moderate,64,25.4,Low
+21,Male,Ironing,18.3,10,0,3,2,4,4,5.1,2,1,2,Moderate,71.8,31.8,Low
+36,Male,Packaging,10.4,10,4,1,3,2,3,5.9,3,3,2,Good,66.1,31.6,High
+37,Male,Cutting Operator,10.3,10,4,3,2,4,3,5,3,4,3,Moderate,65.2,25.6,Low
+50,Female,Sewing Operator,1.5,9,3,4,3,3,3,,4,3,3,Moderate,63.7,35.7,Low
+37,Male,Ironing,1.2,11,4,5,3,2,3,8.6,4,4,4,Moderate,74.7,32.3,High
+29,Female,Ironing,11.2,11,1,3,2,3,2,8,5,2,2,Moderate,73.6,24.3,Low
+18,Female,Sewing Operator,9,10,0,3,3,3,2,8.9,3,3,3,Good,63.5,32.5,High
+43,Male,Sewing Operator,16.9,8,0,5,4,5,4,7.1,3,2,1,Moderate,49.8,32.4,Low
+31,Female,Ironing,3.6,11,4,2,,2,2,6.7,2,3,3,Poor,65.4,34.2,High
+54,Male,Ironing,1,10,2,3,3,3,3,5.3,3,3,1,Good,57.8,28.1,Low
+28,Female,Sewing Operator,9.3,10,2,3,3,3,4,6.8,2,3,5,Good,60.3,32.5,Low
+53,Male,Ironing,5.1,9,4,1,2,5,3,6.3,3,4,4,Poor,63.8,29.3,Low
+30,Female,Sewing Operator,1.5,11,1,3,2,3,3,7.4,3,3,3,Good,54.4,28.3,Low
+20,Female,Ironing,14.6,10,2,2,3,5,3,,2,3,1,Good,48.9,27.4,Low
+50,Female,Sewing Operator,2.7,8,4,3,3,5,1,,1,5,3,Poor,67.9,24.3,Low
+23,Female,Cutting Operator,12.4,9,1,5,5,2,4,4.6,1,2,4,Good,65.3,31.6,Low
+27,Male,Sewing Operator,6,11,1,2,3,4,3,6.9,1,3,2,Good,64.9,29.2,Low
+22,Male,Sewing Operator,3.9,8,3,4,3,5,4,7.3,1,4,3,Poor,70.1,21.8,Low
+40,Male,Sewing Operator,7.9,12,1,1,3,2,,4.6,2,3,4,Poor,58.4,30.2,Low
+27,Male,Sewing Operator,16.1,10,2,3,,3,5,4.9,2,2,4,Good,68.3,33.5,High
+19,Male,Packaging,8.1,10,2,1,3,3,5,4.9,2,3,4,Moderate,78.4,26.1,Low
+30,Male,Sewing Operator,15.1,9,4,5,3,2,3,6.3,5,3,4,Poor,62.5,27.9,Low
+19,Female,Supervisor,2.9,9,4,4,3,1,3,4.8,3,3,5,Moderate,84,31.3,High
+37,Male,Sewing Operator,15.6,11,1,3,4,2,3,8.2,2,2,3,Good,65.5,22.3,High
+18,Female,Sewing Operator,5.1,9,0,4,1,2,3,7,3,5,3,Good,56.5,28.4,Low
+54,Male,Sewing Operator,13.7,10,3,3,4,3,4,7.2,4,4,4,Good,73.5,31,Low
+26,Female,Sewing Operator,11.5,9,0,5,3,2,2,4.6,3,3,3,Poor,63.9,28.3,High
+34,Female,Sewing Operator,18.6,8,1,4,3,4,5,8.1,2,3,5,Poor,75.5,26.1,Low
+26,Male,Packaging,8.1,8,1,5,3,4,4,7.3,3,4,1,Poor,69.1,26.2,Low
+28,Male,Packaging,1.8,10,0,3,3,1,5,5.7,4,2,3,Poor,61.7,25.2,Low
+32,Female,Packaging,0.9,12,3,2,1,3,4,4.6,4,2,2,Moderate,80.2,28.1,Low
+41,Male,Packaging,16.6,9,0,3,4,3,2,6.4,3,3,2,Good,60,33.2,High
+52,Male,Packaging,10.7,9,4,2,3,5,,5.9,4,4,2,Moderate,43.3,37.1,High
+47,Male,Sewing Operator,15.6,9,2,3,3,1,2,6,4,1,4,Moderate,73.8,30.1,High
+48,Male,Packaging,5.1,10,4,3,2,2,2,5.7,3,5,1,Moderate,68.5,32.3,Low
+22,Male,Cutting Operator,7.2,9,2,3,3,5,3,7.4,3,3,4,Good,77.8,27.2,High
+31,Male,Packaging,1.1,11,1,1,3,5,4,3.4,3,3,3,Poor,56.2,23.7,Low
+28,Male,Ironing,19.2,10,3,2,3,4,4,8.2,4,2,2,Good,62.5,35.6,High
+26,Male,Sewing Operator,13.5,10,0,3,3,4,3,7.7,1,2,2,Good,61.4,28.2,Low
+51,Female,Supervisor,18.7,8,3,5,3,1,1,6.8,5,4,3,Moderate,74.3,32.2,High
+29,Male,Supervisor,5.7,12,0,3,5,3,2,6.3,2,5,4,Moderate,71.5,30.5,High
+52,Female,Packaging,12.4,9,4,3,3,2,1,7.8,3,3,4,Good,67.1,33,High
+52,Male,Cutting Operator,13.7,8,4,4,4,2,3,,4,5,4,Poor,67.2,32.9,High
+18,Male,Sewing Operator,6.7,10,0,3,2,4,3,6.2,2,4,5,Good,53.5,30.8,High
+39,Male,Sewing Operator,17,10,3,2,3,2,1,7.9,3,3,3,Good,72.7,31.2,Low
+46,Male,Supervisor,19,9,0,3,3,3,3,9,2,3,5,Good,72.9,33.6,Low
+25,Male,Supervisor,17.8,9,1,2,3,5,2,5.3,3,3,4,Moderate,87.9,28.8,High
+28,Male,Sewing Operator,14.9,10,4,5,4,2,3,7,2,3,4,Poor,69.7,34.7,High
+54,Male,Sewing Operator,5.9,8,1,2,1,5,3,5.2,3,1,1,Poor,71.3,27.9,Low
+31,Male,Sewing Operator,6,11,4,3,1,5,3,7.1,3,3,5,Poor,69.8,30.2,Low
+47,Male,Sewing Operator,19.3,10,4,1,4,3,3,5.6,5,1,3,Good,58,31.9,Low
+52,Male,Supervisor,0.7,9,2,2,2,2,,8,5,4,4,Good,77.5,25.1,Low
+38,Male,Packaging,14.5,9,1,4,3,3,2,6.4,2,4,2,Moderate,64.4,34.1,High
+54,Female,Sewing Operator,14.3,9,1,2,,3,3,6.6,4,2,3,Good,63.1,31.4,High
+22,Male,Sewing Operator,12.6,10,2,1,4,3,4,8.5,1,3,2,Poor,63.7,39.9,Low
+36,Male,Sewing Operator,19.8,10,3,3,2,2,3,5.6,1,3,2,Moderate,64.3,36.2,High
+31,Female,Sewing Operator,6.6,9,1,1,2,5,5,7.3,2,3,2,Poor,60.1,30,Low
+43,Male,Ironing,7.1,10,0,1,3,2,3,5.7,5,2,4,Good,67.2,35.4,Low
+21,Male,Cutting Operator,2,12,2,4,5,4,3,7.9,5,3,1,Good,64,32.5,Low
+42,Female,Supervisor,9.1,9,1,,3,1,1,8.6,2,2,3,Moderate,63.2,30.7,Low
+42,Male,Sewing Operator,5.6,11,3,5,3,3,3,,2,1,2,Good,69.9,25,Low
+35,Male,Cutting Operator,7.2,9,1,4,3,5,2,3.9,2,1,3,Moderate,65.8,25.7,High
+25,Male,Supervisor,16.8,8,4,3,5,2,2,5.7,3,2,2,Good,59.5,30,High
+31,Male,Supervisor,18.7,9,0,1,4,2,3,9.4,3,4,2,Good,57.4,28.5,High
+49,Male,Packaging,4.1,9,2,4,5,3,,5.8,2,5,3,Good,66,30.7,Low
+50,Male,Sewing Operator,7.8,9,4,4,1,4,,8.6,4,3,3,Good,57.5,34.1,Low
+40,Male,Sewing Operator,18.6,8,3,4,2,3,3,5.8,3,3,2,Moderate,56.8,32.6,Low
+32,Male,Sewing Operator,1.7,11,4,3,3,3,3,5.7,5,2,2,Good,57,27.9,Low
+50,Female,Sewing Operator,2.3,11,4,2,4,2,2,7.4,3,3,2,Good,67.5,32.8,Low
+42,Female,Sewing Operator,3.7,10,3,4,2,5,3,7.3,3,2,5,Good,76.9,27.3,High
+34,Male,Packaging,12.1,8,4,4,2,5,4,7.5,4,3,3,Good,68.5,26.6,High
+50,Male,Ironing,3.4,8,2,5,4,3,3,6.5,4,5,3,Good,73.9,31.1,High
+19,Male,Packaging,19.4,8,1,2,,4,3,7.7,2,2,2,Good,64.3,27.6,Low
+31,Male,Sewing Operator,9.2,10,4,2,3,3,3,7.7,3,4,3,Moderate,66.4,28.1,Low
+23,Male,Cutting Operator,10.3,11,2,2,3,3,3,7.9,5,1,1,Moderate,81.5,33,High
+23,Male,Cutting Operator,5.3,9,1,4,3,2,5,5.8,2,3,1,Moderate,73.3,32,High
+20,Female,Supervisor,9.7,8,1,2,4,3,3,7.7,1,2,3,Poor,74.4,28.9,Low
+24,Male,Cutting Operator,13.4,10,4,1,3,3,1,5.9,3,3,3,Good,62.4,25.1,Low
+25,Male,Packaging,15.1,9,2,5,3,1,3,6.3,4,2,2,Moderate,64.9,27.8,Low
+32,Male,Cutting Operator,15.2,9,4,1,3,3,4,6.3,4,3,3,Poor,69.1,35.8,Low
+46,Male,Sewing Operator,11.8,10,3,4,3,4,1,5.3,5,3,5,Good,58.9,32.9,High
+50,Female,Sewing Operator,18.1,10,1,3,3,3,5,4.4,3,3,3,Moderate,41.4,34.3,High
+47,Female,Sewing Operator,16.4,8,4,4,2,3,5,8,2,3,3,Good,69,30.8,Low
+44,Female,Sewing Operator,15.3,8,1,3,1,5,,5.7,3,5,5,Good,74.6,28.9,Low
+53,Male,Sewing Operator,1.6,12,2,5,2,1,5,6.2,4,3,4,Moderate,65.6,32.7,Low
+46,Male,Ironing,0.6,9,0,5,2,3,3,5.6,1,2,3,Good,59,33.8,Low
+50,Male,Supervisor,4.6,8,4,1,3,4,4,6.2,2,2,4,Good,61.7,28.6,Low
+54,Male,Packaging,13.4,8,4,1,4,3,3,5.9,1,4,2,Good,44.7,27.9,High
+44,Male,Sewing Operator,8.5,8,1,2,4,3,3,8,3,3,3,Good,61.7,25.4,High
+50,Female,Supervisor,8.3,9,2,3,4,2,3,5.8,4,3,2,Good,53.8,27.8,High
+21,Male,Ironing,17.7,11,3,4,3,4,4,,3,2,2,Moderate,58,32,High
+39,Male,Sewing Operator,18,9,2,3,3,3,1,7.9,5,3,3,Moderate,53.3,28.2,High
+19,Male,Ironing,18.2,9,4,3,3,4,3,,1,2,2,Moderate,52.2,32.8,Low
+27,Male,Sewing Operator,6.6,10,3,2,2,3,2,6.9,5,5,3,Good,55,35.9,Low
+22,Male,Sewing Operator,14,10,2,4,1,3,,7.1,4,4,3,Poor,71.3,30.1,High
+27,Female,Cutting Operator,5.8,11,0,5,,4,3,7.5,3,1,3,Moderate,59.9,30,Low
+50,Female,Sewing Operator,4.2,11,1,2,5,3,3,7.6,5,3,2,Good,53.9,31.6,Low
+30,Female,Packaging,4.1,8,2,3,2,3,3,6.7,2,2,2,Poor,72.5,28.3,High
+48,Male,Cutting Operator,7.2,10,2,1,1,3,2,5.4,4,3,3,Moderate,66.3,28.1,Low
+53,Male,Ironing,8.9,9,0,3,4,4,2,7.3,4,4,5,Moderate,41.4,28.1,High
+41,Male,Sewing Operator,16.7,12,4,3,2,3,1,6.2,4,3,1,Good,75,26.6,Low
+32,Male,Sewing Operator,2.8,9,1,2,4,3,3,3.2,3,3,2,Good,65.7,32.7,Low
+46,Female,Sewing Operator,14.8,12,2,3,4,1,5,7,2,2,4,Poor,72.7,28.5,Low
+25,Male,Ironing,10.9,10,3,3,5,5,2,5.6,3,4,1,Moderate,62.7,33.3,High
+22,Male,Packaging,6.1,9,2,3,3,1,,5.9,3,3,4,Moderate,81,31.6,High
+46,Male,Sewing Operator,10.1,10,1,3,3,3,4,6.5,4,3,3,Moderate,61.2,29.9,Low
+21,Male,Cutting Operator,6.3,12,2,1,3,3,3,4.6,4,2,3,Poor,38.6,32.4,Low
+29,Female,Packaging,12.1,11,0,4,3,3,3,6.7,5,3,3,Good,56.1,27.2,High
+19,Male,Sewing Operator,9,8,2,4,3,3,4,6.1,1,5,2,Moderate,70,27.7,Low
+44,Male,Packaging,3.7,10,2,,2,1,2,5.4,4,3,3,Good,66.6,32.1,Low
+48,Male,Ironing,2.8,9,3,1,3,3,3,6.6,5,3,4,Moderate,63.8,23.4,High
+53,Male,Sewing Operator,11.2,8,0,4,3,4,3,4.5,4,3,4,Moderate,55.1,30,Low
+53,Female,Sewing Operator,18.1,9,0,5,4,4,3,6.6,2,4,3,Good,65.2,31.8,Low
+43,Female,Supervisor,7.2,9,2,2,4,2,4,7.1,1,3,4,Moderate,64.9,33.9,High
+44,Female,Packaging,14.8,11,3,3,3,4,1,6.9,1,2,2,Good,64.8,34.5,High
+22,Female,Packaging,13.3,9,2,2,2,3,3,7.4,3,3,3,Good,70.4,29.6,High
+37,Male,Packaging,18.7,11,2,3,4,4,3,7.9,3,3,3,Good,66.8,32.3,High
+28,Male,Sewing Operator,16.5,8,1,2,3,3,3,6.4,5,4,4,Good,62.5,27.6,Low
+27,Male,Sewing Operator,11.5,9,1,3,4,3,3,7.8,3,4,3,Good,55,28.7,High
+23,Male,Packaging,13.3,9,3,3,5,5,3,6.4,3,3,3,Good,78.6,34.1,High
+25,Female,Sewing Operator,18,9,4,3,1,4,4,5.7,3,1,4,Moderate,84.8,29.9,Low
+40,Male,Sewing Operator,8.3,8,1,3,4,3,3,6,4,5,3,Moderate,82.4,30.5,High
+43,Female,Supervisor,6.9,8,4,3,1,2,4,6.8,5,3,1,Moderate,72,26.9,Low
+29,Male,Cutting Operator,0.7,10,0,3,3,3,3,7.8,4,3,3,Good,48.2,31.3,Low
+43,Male,Supervisor,16.6,9,1,1,3,3,2,6.5,3,3,3,Poor,47,32.3,Low
+30,Male,Cutting Operator,16.1,9,1,,2,2,1,5.7,3,3,3,Moderate,59.5,32.2,Low
+35,Female,Sewing Operator,2.5,9,3,4,,2,1,8.2,4,2,5,Good,64.5,26.4,Low
+42,Male,Cutting Operator,11.7,11,4,1,1,4,3,4.8,3,4,3,Poor,64,33,Low
+50,Male,Sewing Operator,9.5,11,1,4,2,1,3,5.7,2,4,3,Good,66.9,27,Low
+29,Male,Cutting Operator,2.8,9,1,5,3,3,4,7.6,2,3,3,Moderate,51.1,29.9,High
+53,Male,Cutting Operator,19.6,9,3,2,4,2,,8.6,1,3,2,Good,81.1,25.1,High
+21,Male,Ironing,4.7,8,3,3,5,3,1,7.1,4,2,2,Good,80.1,29.5,High
+22,Female,Cutting Operator,1.8,12,4,3,4,1,2,6.8,2,1,5,Poor,51.9,27,High
+54,Male,Packaging,12.1,8,0,4,3,2,2,6.2,2,3,3,Good,46.4,28.7,High
+25,Male,Sewing Operator,14.9,9,0,5,3,4,3,7.2,2,3,1,Good,64.1,30.2,High
+45,Male,Packaging,1.1,9,2,4,1,4,2,6.7,3,5,2,Poor,77.6,32.5,High
+48,Male,Packaging,13.3,9,1,1,2,2,2,5.6,3,4,3,Poor,64.7,32.4,Low
+26,Female,Sewing Operator,10.9,8,4,3,3,3,5,6.1,3,3,4,Moderate,67.6,23,High
+46,Male,Ironing,2.5,10,1,3,3,3,4,5.5,1,3,4,Good,60.6,32,Low
+31,Male,Cutting Operator,3.9,8,4,,3,4,2,6.5,2,2,2,Good,66.5,30.6,Low
+39,Male,Sewing Operator,11.6,10,4,1,4,4,3,6.7,3,5,5,Moderate,74.4,28.3,High
+28,Female,Supervisor,6.3,8,4,2,3,3,3,8.5,3,3,3,Good,69.1,27.4,High
+40,Female,Cutting Operator,18.8,8,1,4,1,3,4,5.8,2,2,3,Good,70.8,29.8,Low
+18,Male,Cutting Operator,16.5,11,3,3,2,4,3,6.3,1,3,3,Moderate,48.4,30.7,Low
+54,Male,Cutting Operator,19.7,8,1,3,4,1,2,8,4,4,2,Good,86.4,31.1,Low
+38,Male,Packaging,5.6,11,4,3,4,3,4,8.7,3,4,5,Good,48.5,29.4,High
+43,Female,Cutting Operator,19.4,10,2,4,4,5,3,7.1,2,1,2,Good,66.6,22.4,Low
+53,Male,Supervisor,8.9,8,0,4,2,4,2,6.2,1,4,2,Good,63.5,28.5,High
+40,Male,Sewing Operator,7.3,12,4,2,5,3,3,5.9,5,2,4,Good,63.9,26.4,High
+18,Male,Packaging,1.5,9,2,2,2,3,3,4.3,3,1,3,Good,73.7,36.2,Low
+32,Male,Ironing,1.5,11,3,2,1,3,3,5.4,3,4,4,Good,57.9,30.2,Low
+38,Male,Sewing Operator,14,8,4,5,5,3,2,6.6,4,4,3,Moderate,60.7,32.2,High
+26,Female,Ironing,9.4,11,2,3,2,3,3,6.3,4,3,3,Poor,53.5,31.9,Low
+26,Male,Ironing,4.9,8,4,3,3,3,1,7.2,4,3,5,Good,76.2,30.9,High
+27,Male,Sewing Operator,12.5,10,1,3,2,4,4,6.3,3,4,1,Moderate,67.7,28.8,Low
+43,Male,Packaging,5.4,10,2,3,3,4,2,5.6,3,4,4,Good,71.4,28.4,High
+52,Female,Supervisor,11.8,11,1,4,5,2,1,6.9,1,4,2,Good,73.1,23.9,High
+42,Male,Packaging,7.5,11,1,3,3,3,3,9.5,5,3,4,Good,84.9,30.4,Low
+43,Female,Sewing Operator,16.6,11,2,2,3,3,4,6.1,3,5,2,Moderate,83.2,30.9,Low
+28,Male,Sewing Operator,16.5,11,0,2,2,3,4,6.7,2,5,3,Moderate,68.2,29.9,Low
+19,Male,Sewing Operator,9.8,8,2,,3,2,,7.5,5,2,4,Moderate,66.6,30.4,High
+24,Male,Cutting Operator,7.3,9,0,5,3,3,2,5.8,5,4,3,Good,59.7,26.4,Low
+35,Male,Sewing Operator,7.6,9,4,3,2,4,4,8,5,3,4,Good,72.4,29.1,High
+44,Male,Ironing,16.2,9,4,,3,3,3,4.6,4,3,4,Moderate,72.1,28.1,High
+51,Female,Sewing Operator,6.9,9,2,4,2,5,2,6,5,3,4,Good,57.7,32,Low
+44,Male,Sewing Operator,4.6,10,4,2,5,5,5,6.1,2,1,5,Moderate,72.2,30.1,High
+34,Male,Supervisor,2.2,8,3,1,3,2,2,6.7,4,3,3,Moderate,75.1,28.1,High
+41,Male,Ironing,9.6,10,1,2,2,2,5,4.1,4,4,2,Moderate,53.8,29.5,Low
+42,Female,Sewing Operator,9.9,8,1,4,3,5,4,8.1,2,2,1,Poor,66.9,26.9,Low
+24,Female,Packaging,16.9,9,0,2,3,5,3,7,1,3,2,Poor,64.3,29,Low
+23,Male,Sewing Operator,4.8,10,4,3,4,1,5,7.8,5,5,2,Moderate,64.9,31.7,Low
+41,Female,Packaging,7.9,10,0,3,,1,4,8.4,2,3,3,Moderate,55.5,26,High
+50,Male,Ironing,16.3,10,1,4,3,2,2,5.6,4,3,2,Good,46.7,29.8,Low
+46,Male,Sewing Operator,16.6,10,1,2,4,5,3,3.5,1,3,1,Poor,57.4,27.8,High
+39,Female,Sewing Operator,8,8,4,3,3,2,1,7.9,1,3,1,Good,56,26,Low
+43,Female,Sewing Operator,9.5,10,3,3,2,3,3,6.2,3,3,4,Good,68.5,35.6,Low
+45,Male,Cutting Operator,6.4,8,3,3,3,4,,5.1,2,4,3,Good,68.7,33.8,Low
+38,Male,Cutting Operator,18.7,9,4,4,3,1,3,7.2,3,3,3,Good,68.1,28.2,Low
+24,Male,Sewing Operator,2.8,9,4,2,3,3,3,9.5,3,4,4,Moderate,51,29.1,High
+34,Female,Supervisor,18.7,8,0,4,4,2,3,6.4,1,3,1,Moderate,53.8,23.9,Low
+37,Male,Sewing Operator,13.8,9,4,3,3,4,4,7.6,2,3,5,Good,58.8,25.2,High
+37,Male,Sewing Operator,10.9,12,3,3,5,2,1,5.3,3,3,3,Good,65.2,26.6,High
+39,Male,Supervisor,1.1,12,4,3,4,3,3,,2,4,2,Poor,61.6,29.9,Low
+45,Male,Cutting Operator,9.8,9,0,3,3,3,2,7.6,4,3,3,Moderate,68.1,29.7,Low
+24,Male,Cutting Operator,8.5,8,0,2,,2,3,7.2,3,1,4,Poor,74.8,31,High
+18,Female,Packaging,3.6,8,0,3,3,1,2,,1,2,3,Good,55,32,Low
+49,Male,Sewing Operator,13.3,9,0,3,5,3,3,8.5,3,2,4,Moderate,55.4,30.8,High
+30,Male,Supervisor,19.4,11,2,3,3,2,,4.4,1,2,2,Good,66.4,26.8,High
+47,Male,Sewing Operator,11.5,8,4,3,1,4,2,5,2,3,2,Good,64.2,31,Low
+40,Female,Packaging,14.4,10,1,5,3,4,5,5.8,2,1,1,Good,72.4,31.9,High
+36,Male,Sewing Operator,1.8,8,4,3,3,3,1,6.1,4,4,2,Good,65.1,28.7,Low
+49,Male,Ironing,8.6,12,2,1,1,3,3,8.3,5,2,2,Good,82.4,24.5,Low
+47,Female,Sewing Operator,2.8,9,0,3,1,3,1,6.6,4,3,5,Poor,49.1,33.6,High
+46,Female,Sewing Operator,12.4,10,2,4,3,4,3,6.3,3,3,1,Good,73.4,30.3,Low
+46,Female,Cutting Operator,18.8,9,3,4,3,3,3,5,2,2,3,Good,67,21.7,Low
+47,Female,Sewing Operator,13.4,10,3,3,3,2,3,7.8,3,4,3,Good,51,36.2,Low
+33,Male,Packaging,2,8,4,4,2,2,2,5.1,4,1,4,Good,44.3,28.6,High
+36,Female,Sewing Operator,7.4,8,4,2,2,3,,5,5,3,5,Moderate,53.7,37.3,Low
+35,Male,Sewing Operator,11.2,11,1,3,3,3,3,6,2,4,4,Good,77.1,31.1,Low
+18,Female,Sewing Operator,8.4,11,1,4,3,3,4,6.7,1,3,5,Moderate,76,29.4,Low
+31,Female,Sewing Operator,16.8,11,3,4,2,1,3,5.6,3,2,4,Good,63.7,30.6,Low
+19,Female,Cutting Operator,16.4,10,0,3,3,4,3,7.3,4,3,5,Moderate,61.4,27.9,High
+45,Male,Sewing Operator,12.4,11,2,4,3,2,,6.2,4,4,4,Moderate,56.4,30.2,High
+47,Male,Cutting Operator,7.8,8,1,1,1,2,2,7.8,3,5,1,Poor,63.1,36,Low
+21,Male,Packaging,5.5,9,1,4,2,3,2,7.1,5,4,3,Poor,60.3,27.3,Low
+18,Female,Packaging,2.6,9,0,3,1,2,2,,3,3,3,Moderate,82.1,31.6,Low
+25,Female,Packaging,7.4,10,0,2,4,3,2,6,5,5,3,Good,52.6,27.8,High
+46,Male,Packaging,8.6,9,4,2,4,3,3,7.5,5,1,2,Moderate,68.9,29.5,Low
+20,Male,Supervisor,13.7,8,2,3,4,3,3,4.4,4,1,3,Moderate,82.6,35.9,Low
+49,Male,Sewing Operator,13.3,10,0,2,4,3,5,10,3,4,5,Poor,72.7,31.6,Low
+27,Female,Sewing Operator,1.9,11,1,3,3,2,2,7.5,2,2,1,Good,53.8,32.2,High
+27,Female,Cutting Operator,8.2,9,1,2,3,2,3,6.1,3,1,4,Good,49.6,30.2,Low
+36,Male,Cutting Operator,4,8,3,2,3,4,4,6.2,3,2,4,Moderate,67.7,38.1,High
+51,Male,Cutting Operator,3.6,8,0,3,1,3,3,,4,3,5,Good,66.5,27.2,High
